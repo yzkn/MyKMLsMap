@@ -64,6 +64,6 @@ jobs:
           git pull
           git add kml
           git add tiles
-          git commit -m "add action #"$(echo $GITHUB_REF | sed -e 's/[^0-9]//g') -a
-          git push origin main:gh-pages
+          git commit -m "Updates"
+          git push origin gh-pages
         working-directory: ./gh-pages
