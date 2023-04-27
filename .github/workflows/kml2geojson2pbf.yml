@@ -56,4 +56,18 @@ jobs:
         run: git clone https://github.com/mapbox/tippecanoe.git
       - name: PBF
         run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z5 -l All -e ../tiles ../all.geojson && cd ..
-        
+
+      # 別ブランチにプッシュ
+      - name: git setting
+        run: |
+          git config --local user.email "githubaction@action.action"
+          git config --local user.name "githubaction"
+        working-directory: ./gh-pages
+      - name: Commit
+        if: always() && contains(github.event_name, 'pull_request')
+        run: |
+          git pull
+          git add .
+          git commit -m "add action #"$(echo $GITHUB_REF | sed -e 's/[^0-9]//g') -a
+          git push origin gh-pages
+        working-directory: ./gh-pages
