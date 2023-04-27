@@ -62,8 +62,8 @@ jobs:
       - name: cp
         run: |
           mkdir ./gh-pages/tiles
-          cp -rfT ./tiles/* ./gh-pages/tiles/
-          cp -rfT ./kml/* ./gh-pages/kml/
+          cp -rf ./tiles/* ./gh-pages/tiles/
+          cp -rf ./kml/* ./gh-pages/kml/
       - name: ls
         run: |
           ls -la ./gh-pages/
