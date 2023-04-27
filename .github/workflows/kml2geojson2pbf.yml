@@ -31,6 +31,29 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
-      # Runs a single command using the runners shell
+      # チェックアウト結果を確認
       - name: ls
-        run: ls -laR
+        run: ls -la
+      - name: ls
+        run: ls -la ./gh-pages
+
+      # タイル生成
+      - name: NPM
+        run: npm install -g @mapbox/togeojson @mapbox/geojson-merge
+      - name: Convert to GeoJSON files
+        run: while read -r f; do togeojson "${f}" > "${f}.geojson"; done < <(find ./kml -mindepth 1 -maxdepth 1 -name "*.kml")
+      - name: ls
+        run: ls -la ./kml/
+      - name: Concatenated GeoJSON
+        run: geojson-merge ./kml/*.kml.geojson > all.geojson
+      - name: ls
+        run: ls -la
+      - name: Remove GeoJSON files
+        run: rm ./kml/*.kml.geojson
+      - name: ls
+        run: ls -la ./kml/
+      - name: Clone Tippecanoe
+        run: git clone https://github.com/mapbox/tippecanoe.git
+      - name: PBF
+        run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z5 -l All -e ../tiles ../all.geojson && cd ..
+        
