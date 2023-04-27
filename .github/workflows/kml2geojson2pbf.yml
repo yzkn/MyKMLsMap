@@ -43,7 +43,7 @@ jobs:
       - name: Clone Tippecanoe
         run: git clone https://github.com/mapbox/tippecanoe.git
       - name: PBF
-        run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z5 -l All -e ./gh-pages/tiles ../all.geojson && cd ..
+        run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z5 -l All -e ../tiles ../all.geojson && cd ..
 
       # 別ブランチにプッシュ
       - name: git setting
@@ -54,6 +54,10 @@ jobs:
       - name: Commit
         run: |
           git pull
+          ls -la ../
+          ls -la ./
+          cp -rf ../tiles ./
+          cp -rf ../kml ./
           git add .
           git commit -m "Updates"
           git push origin gh-pages
