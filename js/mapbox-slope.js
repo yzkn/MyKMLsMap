@@ -39,7 +39,7 @@ map.on('load', () => {
     map.addSource('All', {
         'type': 'vector',
         'tiles': [
-            'https://ya-androidapp.github.io/MyKMLsMonthly/tiles/{z}/{x}/{y}.pbf'
+            'https://ya-androidapp.github.io/MyKMLsMap/tiles/{z}/{x}/{y}.pbf'
         ],
         'minzoom': 0,
         'maxzoom': 18

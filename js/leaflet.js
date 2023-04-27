@@ -26,7 +26,7 @@ const initMap = () => {
 
 const listKmlFiles = async () => {
     GitHubName = "YA-androidapp"
-    GitHubRepo = "MyKMLsMonthly"
+    GitHubRepo = "MyKMLsMap"
     GitHubPath = "kml"
     header_auth = { "Accept": "application/vnd.github.v3+json" };
 

@@ -2,9 +2,9 @@
 
 ---
 
-- https://ya-androidapp.github.io/MyKMLsMonthly/
-  - https://ya-androidapp.github.io/MyKMLsMonthly/plane.html
-  - https://ya-androidapp.github.io/MyKMLsMonthly/slope.html
+- https://ya-androidapp.github.io/MyKMLsMap/
+  - https://ya-androidapp.github.io/MyKMLsMap/plane.html
+  - https://ya-androidapp.github.io/MyKMLsMap/slope.html
 
 ## 参考
 
