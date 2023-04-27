@@ -51,13 +51,21 @@ jobs:
           git config --local user.email "YA-androidapp@users.noreply.github.com"
           git config --local user.name "YA"
         working-directory: ./gh-pages
-      - name: Commit
+      - name: mv
         run: |
-          git pull
-          ls -la ../
           ls -la ./
+          ls -la ../
+      - name: Pull
+        run: git pull
+      - name: cp
+        run: |
           cp -rf ../tiles ./
           cp -rf ../kml ./
+          ls -la ./
+          ls -la ./tiles
+          ls -la ./kml
+      - name: Commit
+        run: |
           git add .
           git commit -m "Updates"
           git push origin gh-pages
