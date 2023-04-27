@@ -61,8 +61,11 @@ jobs:
         run: git pull
       - name: cp
         run: |
-          cp -rfT ./tiles ./gh-pages/
-          cp -rfT ./kml ./gh-pages/
+          cp -rfT ./tiles ./gh-pages
+          cp -rfT ./kml ./gh-pages
+      - name: ls
+        run: |
+          ls -la ./gh-pages/
           ls -la ./gh-pages/tiles
           ls -la ./gh-pages/kml
       - name: Commit
