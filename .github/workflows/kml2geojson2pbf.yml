@@ -73,7 +73,8 @@ jobs:
         run: git pull
       - name: cp
         run: |
-          mkdir ./gh-pages/tiles
+          mkdir -p ./gh-pages/tiles
+          mkdir -p ./gh-pages/kml
           cp -rf ./tiles/* ./gh-pages/tiles/
           cp -rf ./kml/* ./gh-pages/kml/
       - name: ls
