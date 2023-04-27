@@ -31,12 +31,6 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
-      # チェックアウト結果を確認
-      - name: ls
-        run: ls -la
-      - name: ls
-        run: ls -la ./gh-pages
-
       # タイル生成
       - name: NPM
         run: npm install -g @mapbox/togeojson @mapbox/geojson-merge
@@ -50,8 +44,6 @@ jobs:
         run: git clone https://github.com/mapbox/tippecanoe.git
       - name: PBF
         run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z5 -l All -e ../tiles ../all.geojson && cd ..
-      - name: ls
-        run: ls -la ./
 
       # 別ブランチにプッシュ
       - name: git setting
@@ -61,9 +53,9 @@ jobs:
         working-directory: ./gh-pages
       - name: Commit
         run: |
+          ls -laR
           git pull
-          git add kml
-          git add tiles
+          git add .
           git commit -m "Updates"
           git push origin gh-pages
         working-directory: ./gh-pages
