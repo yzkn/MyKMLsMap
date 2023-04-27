@@ -56,7 +56,7 @@ jobs:
       - name: Clone Tippecanoe
         run: git clone https://github.com/mapbox/tippecanoe.git
       - name: PBF
-        run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z12 -Z5 -l All -e ../tiles ../all.geojson && cd ..
+        run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z4 -l All -e ../tiles ../all.geojson && cd ..
       - name: Remove GeoJSON file
         run: rm ./all.geojson
 
