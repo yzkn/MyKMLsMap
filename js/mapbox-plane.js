@@ -65,3 +65,7 @@ map.on('load', () => {
 
 map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 map.addControl(new mapboxgl.ScaleControl());
+map.addControl(new MapboxExportControl({
+    Format: Format.PNG,
+    DPI: DPI[400]
+}), 'bottom-right');
