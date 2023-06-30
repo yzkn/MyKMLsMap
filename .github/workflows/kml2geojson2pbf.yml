@@ -63,7 +63,7 @@ jobs:
       # 別ブランチにプッシュ
       - name: git setting
         run: |
-          git config --local user.email "9039417+y4pp@users.noreply.github.com"
+          git config --local user.email "9039417+yzkn@users.noreply.github.com"
           git config --local user.name "YA"
         working-directory: ./gh-pages
       - name: ls
