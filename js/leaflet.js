@@ -1,4 +1,4 @@
-// Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+// Copyright (c) 2023 yzkn(https://github.com/yzkn) All rights reserved.
 
 
 var map;
@@ -25,7 +25,7 @@ const initMap = () => {
 }
 
 const listKmlFiles = async () => {
-    GitHubName = "YA-androidapp"
+    GitHubName = "yzkn"
     GitHubRepo = "MyKMLsMap"
     GitHubPath = "kml"
     header_auth = { "Accept": "application/vnd.github.v3+json" };

@@ -1,4 +1,4 @@
-// Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+// Copyright (c) 2023 yzkn(https://github.com/yzkn) All rights reserved.
 
 
 mapboxgl.accessToken = 'pk.eyJ1IjoieWFhbmQiLCJhIjoiY2xndzNsYzVhMDg4NzNmbG5nYW5uMXJ4ayJ9.5m5s747Lt_veKrdxoirjGA'; // このサイトのみで使えるキー
@@ -22,7 +22,7 @@ map.on('load', () => {
     map.addSource('All', {
         'type': 'vector',
         'tiles': [
-            'https://ya-androidapp.github.io/MyKMLsMap/tiles/{z}/{x}/{y}.pbf'
+            'https://yzkn.github.io/MyKMLsMap/tiles/{z}/{x}/{y}.pbf'
         ],
         'minzoom': 0,
         'maxzoom': 18

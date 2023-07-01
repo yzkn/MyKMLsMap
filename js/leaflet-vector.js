@@ -1,4 +1,4 @@
-// Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+// Copyright (c) 2023 yzkn(https://github.com/yzkn) All rights reserved.
 
 
 var map;
@@ -22,7 +22,7 @@ const initMap = () => {
 
 
     L.vectorGrid.protobuf("./tiles/{z}/{x}/{y}.pbf", {
-        attribution: "Copyright (c) 2023 <a href='https://github.com/YA-androidapp' target='_blank'>YA-androidapp</a> All rights reserved.",
+        attribution: "Copyright (c) 2023 <a href='https://github.com/yzkn' target='_blank'>yzkn</a> All rights reserved.",
         maxNativeZoom: 18,
         minNativeZoom: 1,
         maxZoom: 18,

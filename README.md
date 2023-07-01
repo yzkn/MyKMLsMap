@@ -2,9 +2,9 @@
 
 ---
 
-- https://ya-androidapp.github.io/MyKMLsMap/
-  - https://ya-androidapp.github.io/MyKMLsMap/plane.html
-  - https://ya-androidapp.github.io/MyKMLsMap/slope.html
+- https://yzkn.github.io/MyKMLsMap/
+  - https://yzkn.github.io/MyKMLsMap/plane.html
+  - https://yzkn.github.io/MyKMLsMap/slope.html
 
 ## 参考
 
@@ -16,4 +16,4 @@
 
 ---
 
-Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+Copyright (c) 2023 yzkn(https://github.com/yzkn) All rights reserved.
