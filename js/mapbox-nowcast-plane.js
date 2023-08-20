@@ -7,7 +7,27 @@ const NOWCAST_URL = 'https://www.jma.go.jp/bosai/jmatile/data/nowc/targetTimes_N
 var map = new mapboxgl.Map({
     container: 'map',
     hash: true,
-    style: 'js/pale.json',
+    style: {
+        version: 8,
+        sources: {
+            slopemap: {
+                type: "raster",
+                tiles: [
+                    "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                ],
+                tileSize: 256,
+                attribution:
+                    "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community",
+            },
+        },
+        layers: [
+            {
+                id: "slopemap",
+                type: "raster",
+                source: "slopemap"
+            },
+        ],
+    },
     center: [138.71269226074222, 35.91685961322499],
     zoom: 7,
     maxZoom: 18,
