@@ -3,8 +3,9 @@
 ---
 
 - https://yzkn.github.io/MyKMLsMap/
-  - https://yzkn.github.io/MyKMLsMap/plane.html
-  - https://yzkn.github.io/MyKMLsMap/slope.html
+  - https://yzkn.github.io/MyKMLsMap/index.html
+  - https://yzkn.github.io/MyKMLsMap/mapbox-slope.html
+  - https://yzkn.github.io/MyKMLsMap/mapbox-nowcast.html
 
 ## 参考
 
