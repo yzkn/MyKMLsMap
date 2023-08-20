@@ -1,0 +1,90 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
+
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout main
+        uses: actions/checkout@v3
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      # タイル生成
+      - name: NPM
+        run: npm install -g @mapbox/togeojson @mapbox/geojson-merge
+      - name: Convert to GeoJSON files
+        run: while read -r f; do togeojson "${f}" > "${f}.geojson"; done < <(find ./kml -mindepth 1 -maxdepth 1 -name "*.kml")
+      - name: Concatenated GeoJSON
+        run: geojson-merge ./kml/*.kml.geojson > all.geojson
+      - name: Remove GeoJSON files
+        run: rm ./kml/*.kml.geojson
+      - name: Clone Tippecanoe
+        run: git clone https://github.com/mapbox/tippecanoe.git
+      - name: PBF
+        run: cd tippecanoe && ls -la && make && ./tippecanoe --force --no-tile-compression -z18 -Z4 -l All -e ../tiles ../all.geojson && cd ..
+      - name: Remove GeoJSON file
+        run: rm ./all.geojson
+
+      # 別ブランチにプッシュ
+      - name: git setting
+        run: |
+          git config --local user.email "9039417+yzkn@users.noreply.github.com"
+          git config --local user.name "YA"
+        working-directory: ./gh-pages
+      - name: ls
+        run: |
+          ls -la ./
+      - name: Pull
+        run: git pull
+      - name: cp
+        run: |
+          mkdir -p ./gh-pages/tiles
+          mkdir -p ./gh-pages/kml
+          cp -rf ./tiles/* ./gh-pages/tiles/
+          cp -rf ./kml/* ./gh-pages/kml/
+      - name: ls
+        run: |
+          ls -la ./gh-pages/
+          ls -la ./gh-pages/tiles
+          ls -la ./gh-pages/kml
+      - name: Commit
+        run: |
+          git add .
+          git commit -m "Updates"
+          git push origin gh-pages
+        working-directory: ./gh-pages
