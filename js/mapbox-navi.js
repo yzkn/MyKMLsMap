@@ -6,33 +6,9 @@ mapboxgl.accessToken = 'pk.eyJ1IjoieWFhbmQiLCJhIjoiY2xndzNsYzVhMDg4NzNmbG5nYW5uM
 
 var map = new mapboxgl.Map({
     container: 'map',
-    hash: true,
-    style: {
-        version: 8,
-        sources: {
-            slopemap: {
-                type: "raster",
-                tiles: [
-                    "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
-                ],
-                tileSize: 256,
-                attribution:
-                    "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community",
-            },
-        },
-        layers: [
-            {
-                id: "slopemap",
-                type: "raster",
-                source: "slopemap"
-            },
-        ],
-    },
+    style: 'mapbox://styles/mapbox/streets-v11',
     center: [138.71269226074222, 35.91685961322499],
-    zoom: 7,
-    maxZoom: 18,
-    minZoom: 0,
-    localIdeographFontFamily: false
+    zoom: 7
 });
 
 map.on('load', () => {
@@ -79,4 +55,11 @@ map.addControl(
         showUserHeading: true
     }),
     'bottom-right'
+);
+
+map.addControl(
+    new MapboxDirections({
+        accessToken: mapboxgl.accessToken
+    }),
+    'top-left'
 );

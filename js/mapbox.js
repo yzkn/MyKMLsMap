@@ -49,3 +49,14 @@ map.addControl(new MapboxExportControl({
     Format: Format.PNG,
     DPI: DPI[400]
 }), 'bottom-right');
+
+map.addControl(
+    new mapboxgl.GeolocateControl({
+        positionOptions: {
+            enableHighAccuracy: true
+        },
+        trackUserLocation: true,
+        showUserHeading: true
+    }),
+    'bottom-right'
+);
