@@ -29,8 +29,450 @@
 <Folder>
 <name>Routes</name>
 <Folder>
-<<<<<<< HEAD
-=======
+<name>東田町・新宿町</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>AY0004</name>
+<TimeStamp><when>2023-09-16T07:28:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.474730,35.906766,22.360000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FO0002</name>
+<TimeStamp><when>2023-09-16T07:28:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.475545,35.906070,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FO0003</name>
+<TimeStamp><when>2023-09-16T07:28:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.477572,35.904301,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FO0004</name>
+<TimeStamp><when>2023-09-16T07:28:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.477948,35.904001,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FO0005</name>
+<TimeStamp><when>2023-09-16T07:28:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.478162,35.903898,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.474730,35.906766,22.360000
+139.475545,35.906070,-0.001000
+139.477572,35.904301,-0.001000
+139.477948,35.904001,-0.001000
+139.478162,35.903898,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>卸商団地入口・伊佐沼</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>AE0017</name>
+<TimeStamp><when>2023-09-16T07:24:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.512205,35.918967,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0002</name>
+<TimeStamp><when>2023-09-16T07:24:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.512366,35.919253,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0003</name>
+<TimeStamp><when>2023-09-16T07:24:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.511502,35.920313,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0004</name>
+<TimeStamp><when>2023-09-16T07:24:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.511400,35.920489,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0005</name>
+<TimeStamp><when>2023-09-16T07:25:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.511379,35.920648,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0006</name>
+<TimeStamp><when>2023-09-16T07:25:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.511341,35.921262,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0007</name>
+<TimeStamp><when>2023-09-16T07:25:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.511218,35.923540,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0008</name>
+<TimeStamp><when>2023-09-16T07:25:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.513332,35.923635,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0009</name>
+<TimeStamp><when>2023-09-16T07:25:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.513316,35.924060,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0010</name>
+<TimeStamp><when>2023-09-16T07:25:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.514002,35.924085,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FN0011</name>
+<TimeStamp><when>2023-09-16T07:26:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.514319,35.924154,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZR0033</name>
+<TimeStamp><when>2023-09-16T07:26:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.514424,35.924224,8.592000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.512205,35.918967,0.000000
+139.512366,35.919253,-0.001000
+139.511502,35.920313,-0.001000
+139.511400,35.920489,-0.001000
+139.511379,35.920648,-0.001000
+139.511341,35.921262,-0.001000
+139.511218,35.923540,-0.001000
+139.513332,35.923635,-0.001000
+139.513316,35.924060,-0.001000
+139.514002,35.924085,-0.001000
+139.514319,35.924154,-0.001000
+139.514424,35.924224,8.592000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>小仙波東</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>LW0006</name>
+<TimeStamp><when>2023-09-16T07:21:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.501926,35.919343,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>AE0012</name>
+<TimeStamp><when>2023-09-16T07:22:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.503032,35.919465,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.501926,35.919343,-0.001000
+139.503032,35.919465,0.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>小仙波中</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>BE0012</name>
+<TimeStamp><when>2023-09-16T07:18:57Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.501343,35.914199,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FL0002</name>
+<TimeStamp><when>2023-09-16T07:19:07Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.500749,35.915063,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FL0003</name>
+<TimeStamp><when>2023-09-16T07:19:17Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.500153,35.915874,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FL0004</name>
+<TimeStamp><when>2023-09-16T07:19:27Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.500003,35.916178,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FL0005</name>
+<TimeStamp><when>2023-09-16T07:19:37Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.499332,35.917247,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>HZ0169</name>
+<TimeStamp><when>2023-09-16T07:19:47Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.498005,35.918806,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>HF0321</name>
+<TimeStamp><when>2023-09-16T07:19:57Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.498144,35.918851,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.501343,35.914199,0.000000
+139.500749,35.915063,-0.001000
+139.500153,35.915874,-0.001000
+139.500003,35.916178,-0.001000
+139.499332,35.917247,-0.001000
+139.498005,35.918806,-0.001000
+139.498144,35.918851,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>北島・浜松IC</name>
 <Folder>
 <name>Points</name>
@@ -14871,7 +15313,6 @@
 </Placemark>
 </Folder>
 <Folder>
->>>>>>> gh-pages
 <name>坂戸IC入口</name>
 <Folder>
 <name>Points</name>
