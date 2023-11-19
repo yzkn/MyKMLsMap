@@ -29,6 +29,2268 @@
 <Folder>
 <name>Routes</name>
 <Folder>
+<name>東松山上野本・若松町</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>KV0001</name>
+<TimeStamp><when>2023-11-19T09:18:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.405282,36.026109,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0002</name>
+<TimeStamp><when>2023-11-19T09:18:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.405303,36.026216,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0003</name>
+<TimeStamp><when>2023-11-19T09:18:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.405593,36.027396,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0004</name>
+<TimeStamp><when>2023-11-19T09:18:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.405861,36.028452,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0005</name>
+<TimeStamp><when>2023-11-19T09:18:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.405947,36.028838,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0006</name>
+<TimeStamp><when>2023-11-19T09:18:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.406001,36.029310,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0007</name>
+<TimeStamp><when>2023-11-19T09:19:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.406011,36.029731,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KV0008</name>
+<TimeStamp><when>2023-11-19T09:19:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.406011,36.030306,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.405282,36.026109,-0.001000
+139.405303,36.026216,-0.001000
+139.405593,36.027396,-0.001000
+139.405861,36.028452,-0.001000
+139.405947,36.028838,-0.001000
+139.406001,36.029310,-0.001000
+139.406011,36.029731,-0.001000
+139.406011,36.030306,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>嵐山志賀</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>KK0003</name>
+<TimeStamp><when>2023-11-19T09:15:37Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.302447,36.053173,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KU0002</name>
+<TimeStamp><when>2023-11-19T09:15:47Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.302644,36.053137,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>LU0002</name>
+<TimeStamp><when>2023-11-19T09:15:57Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.304054,36.052441,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.302447,36.053173,-0.001000
+139.302644,36.053137,-0.001000
+139.304054,36.052441,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>小川町木呂子</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>CX0035</name>
+<TimeStamp><when>2023-11-19T09:10:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.220509,36.078941,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KT0002</name>
+<TimeStamp><when>2023-11-19T09:10:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.220183,36.079122,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KT0003</name>
+<TimeStamp><when>2023-11-19T09:11:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.220129,36.079290,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KT0004</name>
+<TimeStamp><when>2023-11-19T09:11:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.220124,36.079427,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>CX0037</name>
+<TimeStamp><when>2023-11-19T09:11:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.220240,36.079885,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.220509,36.078941,0.000000
+139.220183,36.079122,-0.001000
+139.220129,36.079290,-0.001000
+139.220124,36.079427,-0.001000
+139.220240,36.079885,0.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>山中湖IC通過</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>BL1856</name>
+<TimeStamp><when>2023-11-19T09:02:08Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.838107,35.430664,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KS0002</name>
+<TimeStamp><when>2023-11-19T09:02:18Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.837662,35.431096,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KS0003</name>
+<TimeStamp><when>2023-11-19T09:02:28Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.836868,35.431731,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KS0004</name>
+<TimeStamp><when>2023-11-19T09:02:38Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.836021,35.432246,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KS0005</name>
+<TimeStamp><when>2023-11-19T09:02:48Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.835323,35.432615,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KS0006</name>
+<TimeStamp><when>2023-11-19T09:02:58Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.834486,35.433002,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>BN0012</name>
+<TimeStamp><when>2023-11-19T09:03:08Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.831192,35.434269,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.838107,35.430664,0.000000
+138.837662,35.431096,-0.001000
+138.836868,35.431731,-0.001000
+138.836021,35.432246,-0.001000
+138.835323,35.432615,-0.001000
+138.834486,35.433002,-0.001000
+138.831192,35.434269,0.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>須走口南IC通過</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>BL1803</name>
+<TimeStamp><when>2023-11-19T08:59:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.874134,35.354030,752.713000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KR0002</name>
+<TimeStamp><when>2023-11-19T09:00:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.873175,35.354819,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KR0003</name>
+<TimeStamp><when>2023-11-19T09:00:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.872767,35.355145,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KR0004</name>
+<TimeStamp><when>2023-11-19T09:00:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.872198,35.355557,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KR0005</name>
+<TimeStamp><when>2023-11-19T09:00:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.871737,35.355909,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KR0006</name>
+<TimeStamp><when>2023-11-19T09:00:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.870503,35.356913,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.874134,35.354030,752.713000
+138.873175,35.354819,-0.001000
+138.872767,35.355145,-0.001000
+138.872198,35.355557,-0.001000
+138.871737,35.355909,-0.001000
+138.870503,35.356913,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>ぐみ沢IC・仁杉JCT</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>SW0004</name>
+<TimeStamp><when>2023-11-19T08:57:53Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.911053,35.320238,529.310000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0002</name>
+<TimeStamp><when>2023-11-19T08:58:03Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.910683,35.320332,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0003</name>
+<TimeStamp><when>2023-11-19T08:58:13Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.910103,35.320478,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0004</name>
+<TimeStamp><when>2023-11-19T08:58:23Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.909577,35.320641,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0005</name>
+<TimeStamp><when>2023-11-19T08:58:33Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.909191,35.320778,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0006</name>
+<TimeStamp><when>2023-11-19T08:58:43Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.908730,35.320967,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0007</name>
+<TimeStamp><when>2023-11-19T08:58:53Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.908226,35.321224,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0008</name>
+<TimeStamp><when>2023-11-19T08:59:03Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.907614,35.321568,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0009</name>
+<TimeStamp><when>2023-11-19T08:59:13Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.907024,35.321954,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0010</name>
+<TimeStamp><when>2023-11-19T08:59:23Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.906756,35.322126,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0011</name>
+<TimeStamp><when>2023-11-19T08:59:33Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.906423,35.322366,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0012</name>
+<TimeStamp><when>2023-11-19T08:59:43Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.906155,35.322606,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0013</name>
+<TimeStamp><when>2023-11-19T08:59:53Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.905232,35.323508,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0014</name>
+<TimeStamp><when>2023-11-19T09:00:03Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.904513,35.324340,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0015</name>
+<TimeStamp><when>2023-11-19T09:00:13Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.903945,35.325138,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0016</name>
+<TimeStamp><when>2023-11-19T09:00:23Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.902850,35.326941,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KQ0017</name>
+<TimeStamp><when>2023-11-19T09:00:33Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.902593,35.327327,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>FW0069</name>
+<TimeStamp><when>2023-11-19T09:00:43Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.902243,35.327760,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.911053,35.320238,529.310000
+138.910683,35.320332,-0.001000
+138.910103,35.320478,-0.001000
+138.909577,35.320641,-0.001000
+138.909191,35.320778,-0.001000
+138.908730,35.320967,-0.001000
+138.908226,35.321224,-0.001000
+138.907614,35.321568,-0.001000
+138.907024,35.321954,-0.001000
+138.906756,35.322126,-0.001000
+138.906423,35.322366,-0.001000
+138.906155,35.322606,-0.001000
+138.905232,35.323508,-0.001000
+138.904513,35.324340,-0.001000
+138.903945,35.325138,-0.001000
+138.902850,35.326941,-0.001000
+138.902593,35.327327,-0.001000
+138.902243,35.327760,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>大井松田IC入口左ルート規制</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>AM0173</name>
+<TimeStamp><when>2023-11-19T08:53:31Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.146927,35.348707,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KP0002</name>
+<TimeStamp><when>2023-11-19T08:53:41Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145097,35.349102,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.146927,35.348707,0.000000
+139.145097,35.349102,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>インター前・大井松田IC</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>CQ0078</name>
+<TimeStamp><when>2023-11-19T08:48:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.152037,35.338746,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0002</name>
+<TimeStamp><when>2023-11-19T08:48:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.151888,35.338837,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0003</name>
+<TimeStamp><when>2023-11-19T08:48:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.151180,35.339725,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0004</name>
+<TimeStamp><when>2023-11-19T08:48:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150633,35.340446,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0005</name>
+<TimeStamp><when>2023-11-19T08:49:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150150,35.341073,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0006</name>
+<TimeStamp><when>2023-11-19T08:49:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149871,35.341193,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0007</name>
+<TimeStamp><when>2023-11-19T08:49:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149667,35.341219,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0008</name>
+<TimeStamp><when>2023-11-19T08:49:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149517,35.341176,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0009</name>
+<TimeStamp><when>2023-11-19T08:49:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149421,35.341090,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0010</name>
+<TimeStamp><when>2023-11-19T08:49:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149367,35.340940,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0011</name>
+<TimeStamp><when>2023-11-19T08:50:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149404,35.340828,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0012</name>
+<TimeStamp><when>2023-11-19T08:50:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149496,35.340738,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0013</name>
+<TimeStamp><when>2023-11-19T08:50:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149624,35.340669,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0014</name>
+<TimeStamp><when>2023-11-19T08:50:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149807,35.340644,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0015</name>
+<TimeStamp><when>2023-11-19T08:50:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150000,35.340652,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0016</name>
+<TimeStamp><when>2023-11-19T08:50:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150209,35.340691,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0017</name>
+<TimeStamp><when>2023-11-19T08:51:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150692,35.340820,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KO0018</name>
+<TimeStamp><when>2023-11-19T08:51:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.151035,35.340948,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>YP0005</name>
+<TimeStamp><when>2023-11-19T08:51:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.151393,35.341112,63.474000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.152037,35.338746,-0.001000
+139.151888,35.338837,-0.001000
+139.151180,35.339725,-0.001000
+139.150633,35.340446,-0.001000
+139.150150,35.341073,-0.001000
+139.149871,35.341193,-0.001000
+139.149667,35.341219,-0.001000
+139.149517,35.341176,-0.001000
+139.149421,35.341090,-0.001000
+139.149367,35.340940,-0.001000
+139.149404,35.340828,-0.001000
+139.149496,35.340738,-0.001000
+139.149624,35.340669,-0.001000
+139.149807,35.340644,-0.001000
+139.150000,35.340652,-0.001000
+139.150209,35.340691,-0.001000
+139.150692,35.340820,-0.001000
+139.151035,35.340948,-0.001000
+139.151393,35.341112,63.474000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>早川口・お城通り</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>CS0018</name>
+<TimeStamp><when>2023-11-19T08:45:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149613,35.246547,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0002</name>
+<TimeStamp><when>2023-11-19T08:45:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150113,35.247286,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0003</name>
+<TimeStamp><when>2023-11-19T08:45:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.150585,35.247955,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0004</name>
+<TimeStamp><when>2023-11-19T08:45:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.151883,35.250084,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0005</name>
+<TimeStamp><when>2023-11-19T08:45:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.152183,35.250736,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0006</name>
+<TimeStamp><when>2023-11-19T08:46:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.152462,35.251182,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0007</name>
+<TimeStamp><when>2023-11-19T08:46:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.153471,35.252564,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0008</name>
+<TimeStamp><when>2023-11-19T08:46:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.154050,35.252968,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0009</name>
+<TimeStamp><when>2023-11-19T08:46:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.154308,35.253174,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0010</name>
+<TimeStamp><when>2023-11-19T08:46:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.154468,35.253302,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0011</name>
+<TimeStamp><when>2023-11-19T08:46:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.154651,35.253354,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0012</name>
+<TimeStamp><when>2023-11-19T08:47:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.154844,35.253328,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0013</name>
+<TimeStamp><when>2023-11-19T08:47:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.155091,35.253251,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0014</name>
+<TimeStamp><when>2023-11-19T08:47:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.155509,35.253946,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0015</name>
+<TimeStamp><when>2023-11-19T08:47:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.155675,35.254315,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0016</name>
+<TimeStamp><when>2023-11-19T08:47:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.156126,35.254195,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0017</name>
+<TimeStamp><when>2023-11-19T08:47:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.156845,35.254028,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0018</name>
+<TimeStamp><when>2023-11-19T08:48:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.157038,35.253998,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0019</name>
+<TimeStamp><when>2023-11-19T08:48:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.157617,35.253933,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KN0020</name>
+<TimeStamp><when>2023-11-19T08:48:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.158240,35.253942,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>CS0002</name>
+<TimeStamp><when>2023-11-19T08:48:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.158625,35.253988,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.149613,35.246547,-0.001000
+139.150113,35.247286,-0.001000
+139.150585,35.247955,-0.001000
+139.151883,35.250084,-0.001000
+139.152183,35.250736,-0.001000
+139.152462,35.251182,-0.001000
+139.153471,35.252564,-0.001000
+139.154050,35.252968,-0.001000
+139.154308,35.253174,-0.001000
+139.154468,35.253302,-0.001000
+139.154651,35.253354,-0.001000
+139.154844,35.253328,-0.001000
+139.155091,35.253251,-0.001000
+139.155509,35.253946,-0.001000
+139.155675,35.254315,-0.001000
+139.156126,35.254195,-0.001000
+139.156845,35.254028,-0.001000
+139.157038,35.253998,-0.001000
+139.157617,35.253933,-0.001000
+139.158240,35.253942,-0.001000
+139.158625,35.253988,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>早川港</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>CS0020</name>
+<TimeStamp><when>2023-11-19T08:40:43Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.146759,35.241783,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0002</name>
+<TimeStamp><when>2023-11-19T08:40:53Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.147351,35.241465,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0003</name>
+<TimeStamp><when>2023-11-19T08:41:03Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.147727,35.241225,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0004</name>
+<TimeStamp><when>2023-11-19T08:41:13Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.148124,35.240967,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0005</name>
+<TimeStamp><when>2023-11-19T08:41:23Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149164,35.240272,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0006</name>
+<TimeStamp><when>2023-11-19T08:41:33Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149068,35.240032,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0007</name>
+<TimeStamp><when>2023-11-19T08:41:43Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149089,35.239920,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0008</name>
+<TimeStamp><when>2023-11-19T08:41:53Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149197,35.239792,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0009</name>
+<TimeStamp><when>2023-11-19T08:42:03Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149256,35.239710,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>CV0015</name>
+<TimeStamp><when>2023-11-19T08:42:13Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.148589,35.239142,-1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0011</name>
+<TimeStamp><when>2023-11-19T08:42:23Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.148580,35.239238,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KM0012</name>
+<TimeStamp><when>2023-11-19T08:42:33Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.149197,35.239779,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.146759,35.241783,-0.001000
+139.147351,35.241465,-0.001000
+139.147727,35.241225,-0.001000
+139.148124,35.240967,-0.001000
+139.149164,35.240272,-0.001000
+139.149068,35.240032,-0.001000
+139.149089,35.239920,-0.001000
+139.149197,35.239792,-0.001000
+139.149256,35.239710,-0.001000
+139.148589,35.239142,-1.000000
+139.148580,35.239238,-0.001000
+139.149197,35.239779,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>早川・TOTOCO小田原</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>KL0001</name>
+<TimeStamp><when>2023-11-19T08:38:27Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.144744,35.234831,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0002</name>
+<TimeStamp><when>2023-11-19T08:38:37Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145377,35.234401,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0003</name>
+<TimeStamp><when>2023-11-19T08:38:47Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145077,35.234148,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0004</name>
+<TimeStamp><when>2023-11-19T08:38:57Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.144519,35.234517,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0005</name>
+<TimeStamp><when>2023-11-19T08:39:07Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.144749,35.234835,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0006</name>
+<TimeStamp><when>2023-11-19T08:39:17Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.144878,35.234998,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0007</name>
+<TimeStamp><when>2023-11-19T08:39:27Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145071,35.235260,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0008</name>
+<TimeStamp><when>2023-11-19T08:39:37Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.144921,35.235496,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0009</name>
+<TimeStamp><when>2023-11-19T08:39:47Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.144943,35.235599,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0010</name>
+<TimeStamp><when>2023-11-19T08:39:57Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145082,35.235822,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0011</name>
+<TimeStamp><when>2023-11-19T08:40:07Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145232,35.236019,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0012</name>
+<TimeStamp><when>2023-11-19T08:40:17Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145500,35.236285,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0013</name>
+<TimeStamp><when>2023-11-19T08:40:27Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.145892,35.236676,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0014</name>
+<TimeStamp><when>2023-11-19T08:40:37Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.146053,35.236783,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0015</name>
+<TimeStamp><when>2023-11-19T08:40:47Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.146305,35.236818,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KL0016</name>
+<TimeStamp><when>2023-11-19T08:40:57Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.146273,35.236989,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>CS0031</name>
+<TimeStamp><when>2023-11-19T08:41:07Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.146179,35.237080,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.144744,35.234831,-0.001000
+139.145377,35.234401,-0.001000
+139.145077,35.234148,-0.001000
+139.144519,35.234517,-0.001000
+139.144749,35.234835,-0.001000
+139.144878,35.234998,-0.001000
+139.145071,35.235260,-0.001000
+139.144921,35.235496,-0.001000
+139.144943,35.235599,-0.001000
+139.145082,35.235822,-0.001000
+139.145232,35.236019,-0.001000
+139.145500,35.236285,-0.001000
+139.145892,35.236676,-0.001000
+139.146053,35.236783,-0.001000
+139.146305,35.236818,-0.001000
+139.146273,35.236989,-0.001000
+139.146179,35.237080,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>狭山PA外回り</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>KK0001</name>
+<TimeStamp><when>2023-11-19T08:32:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365248,35.850271,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0002</name>
+<TimeStamp><when>2023-11-19T08:32:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365238,35.850580,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0003</name>
+<TimeStamp><when>2023-11-19T08:32:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365485,35.851241,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0004</name>
+<TimeStamp><when>2023-11-19T08:32:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365420,35.851438,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0005</name>
+<TimeStamp><when>2023-11-19T08:33:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.364959,35.851790,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0006</name>
+<TimeStamp><when>2023-11-19T08:33:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365409,35.852434,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0007</name>
+<TimeStamp><when>2023-11-19T08:33:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365753,35.852314,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0008</name>
+<TimeStamp><when>2023-11-19T08:33:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365957,35.852305,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0009</name>
+<TimeStamp><when>2023-11-19T08:33:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366160,35.852331,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0010</name>
+<TimeStamp><when>2023-11-19T08:33:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366343,35.852502,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0011</name>
+<TimeStamp><when>2023-11-19T08:34:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366772,35.852880,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KK0012</name>
+<TimeStamp><when>2023-11-19T08:34:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367115,35.853086,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.365248,35.850271,-0.001000
+139.365238,35.850580,-0.001000
+139.365485,35.851241,-0.001000
+139.365420,35.851438,-0.001000
+139.364959,35.851790,-0.001000
+139.365409,35.852434,-0.001000
+139.365753,35.852314,-0.001000
+139.365957,35.852305,-0.001000
+139.366160,35.852331,-0.001000
+139.366343,35.852502,-0.001000
+139.366772,35.852880,-0.001000
+139.367115,35.853086,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>狭山PA内回り</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>KJ0001</name>
+<TimeStamp><when>2023-11-19T08:30:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367899,35.853601,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0002</name>
+<TimeStamp><when>2023-11-19T08:31:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367673,35.853266,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0003</name>
+<TimeStamp><when>2023-11-19T08:31:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367276,35.852880,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0004</name>
+<TimeStamp><when>2023-11-19T08:31:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367072,35.852623,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0005</name>
+<TimeStamp><when>2023-11-19T08:31:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367062,35.852485,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0006</name>
+<TimeStamp><when>2023-11-19T08:31:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367083,35.852339,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0007</name>
+<TimeStamp><when>2023-11-19T08:31:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.367426,35.852022,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0008</name>
+<TimeStamp><when>2023-11-19T08:32:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366965,35.851455,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0009</name>
+<TimeStamp><when>2023-11-19T08:32:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366514,35.851618,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0010</name>
+<TimeStamp><when>2023-11-19T08:32:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366364,35.851653,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0011</name>
+<TimeStamp><when>2023-11-19T08:32:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.366214,35.851610,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KJ0012</name>
+<TimeStamp><when>2023-11-19T08:32:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365924,35.851198,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>BI0079</name>
+<TimeStamp><when>2023-11-19T08:32:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.365690,35.850961,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.367899,35.853601,-0.001000
+139.367673,35.853266,-0.001000
+139.367276,35.852880,-0.001000
+139.367072,35.852623,-0.001000
+139.367062,35.852485,-0.001000
+139.367083,35.852339,-0.001000
+139.367426,35.852022,-0.001000
+139.366965,35.851455,-0.001000
+139.366514,35.851618,-0.001000
+139.366364,35.851653,-0.001000
+139.366214,35.851610,-0.001000
+139.365924,35.851198,-0.001000
+139.365690,35.850961,0.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>千野上・市役所前</name>
 <Folder>
 <name>Points</name>
