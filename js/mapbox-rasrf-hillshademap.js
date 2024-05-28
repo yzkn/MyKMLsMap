@@ -1,4 +1,4 @@
-// Copyright (c) 2023 YA-androidapp(https://github.com/yzkn) All rights reserved.
+// Copyright (c) 2024 YA-androidapp(https://github.com/yzkn) All rights reserved.
 
 
 mapboxgl.accessToken = 'pk.eyJ1IjoieWFhbmQiLCJhIjoiY2xndzNsYzVhMDg4NzNmbG5nYW5uMXJ4ayJ9.5m5s747Lt_veKrdxoirjGA'; // このサイトのみで使えるキー
