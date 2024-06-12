@@ -29,6 +29,228 @@
 <Folder>
 <name>Routes</name>
 <Folder>
+<name>松本IC上り通過</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>XG0001</name>
+<TimeStamp><when>2024-06-12T23:36:13Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>137.938092,36.235655,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XG0002</name>
+<TimeStamp><when>2024-06-12T23:36:23Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>137.938194,36.235144,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XG0003</name>
+<TimeStamp><when>2024-06-12T23:36:33Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>137.938381,36.234350,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XG0004</name>
+<TimeStamp><when>2024-06-12T23:36:43Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>137.938607,36.233449,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XG0005</name>
+<TimeStamp><when>2024-06-12T23:36:53Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>137.938746,36.232883,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZQ0010</name>
+<TimeStamp><when>2024-06-12T23:37:03Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>137.938862,36.232160,591.288000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+137.938092,36.235655,-0.001000
+137.938194,36.235144,-0.001000
+137.938381,36.234350,-0.001000
+137.938607,36.233449,-0.001000
+137.938746,36.232883,-0.001000
+137.938862,36.232160,591.288000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>小布施PA上り通過</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>XF0001</name>
+<TimeStamp><when>2024-06-12T23:32:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.296125,36.695403,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XF0002</name>
+<TimeStamp><when>2024-06-12T23:33:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.295943,36.695137,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XF0003</name>
+<TimeStamp><when>2024-06-12T23:33:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.295653,36.694699,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XF0004</name>
+<TimeStamp><when>2024-06-12T23:33:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.295213,36.693961,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XF0005</name>
+<TimeStamp><when>2024-06-12T23:33:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.294859,36.693360,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XF0006</name>
+<TimeStamp><when>2024-06-12T23:33:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.294344,36.692304,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IP0391</name>
+<TimeStamp><when>2024-06-12T23:33:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.293970,36.691444,334.289000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.296125,36.695403,-0.001000
+138.295943,36.695137,-0.001000
+138.295653,36.694699,-0.001000
+138.295213,36.693961,-0.001000
+138.294859,36.693360,-0.001000
+138.294344,36.692304,-0.001000
+138.293970,36.691444,334.289000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>高岡PA下り</name>
 <Folder>
 <name>Points</name>
