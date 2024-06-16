@@ -67,7 +67,8 @@ map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 map.addControl(new mapboxgl.ScaleControl());
 map.addControl(new MapboxExportControl({
     Format: Format.PNG,
-    DPI: DPI[400]
+    DPI: DPI[400],
+    PrintableArea: true
 }), 'bottom-right');
 
 map.addControl(
