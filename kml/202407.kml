@@ -29,6 +29,152 @@
 <Folder>
 <name>Routes</name>
 <Folder>
+<name>下仁田IC下り出口</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>ZA0001</name>
+<TimeStamp><when>2024-07-27T10:17:48Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.825734,36.235054,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0002</name>
+<TimeStamp><when>2024-07-27T10:17:58Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.825192,36.235032,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0003</name>
+<TimeStamp><when>2024-07-27T10:18:08Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.824827,36.235058,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0004</name>
+<TimeStamp><when>2024-07-27T10:18:18Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.824527,36.235015,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0005</name>
+<TimeStamp><when>2024-07-27T10:18:28Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.824231,36.234929,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0006</name>
+<TimeStamp><when>2024-07-27T10:18:38Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.823969,36.234796,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0007</name>
+<TimeStamp><when>2024-07-27T10:18:48Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.823550,36.234504,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZA0008</name>
+<TimeStamp><when>2024-07-27T10:18:58Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.823314,36.234298,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>XK0012</name>
+<TimeStamp><when>2024-07-27T10:19:08Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>138.823050,36.234127,224.233000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.825734,36.235054,-0.001000
+138.825192,36.235032,-0.001000
+138.824827,36.235058,-0.001000
+138.824527,36.235015,-0.001000
+138.824231,36.234929,-0.001000
+138.823969,36.234796,-0.001000
+138.823550,36.234504,-0.001000
+138.823314,36.234298,-0.001000
+138.823050,36.234127,224.233000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>川越IC上り通過</name>
 <Folder>
 <name>Points</name>
