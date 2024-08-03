@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="route_n">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<StyleMap id="route">
+<Pair>
+<key>normal</key>
+<styleUrl>#route_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#route_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="route_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Routes</name>
+<Folder>
+<name>新宿団地</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>ZX0001</name>
+<TimeStamp><when>2024-08-03T05:17:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.476287,35.900987,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZX0002</name>
+<TimeStamp><when>2024-08-03T05:18:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.477242,35.900571,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZX0003</name>
+<TimeStamp><when>2024-08-03T05:18:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.477295,35.900700,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZX0004</name>
+<TimeStamp><when>2024-08-03T05:18:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.477462,35.900622,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZX0005</name>
+<TimeStamp><when>2024-08-03T05:18:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.478406,35.900421,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZX0006</name>
+<TimeStamp><when>2024-08-03T05:18:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.478465,35.900476,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZX0007</name>
+<TimeStamp><when>2024-08-03T05:18:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.479983,35.900116,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.476287,35.900987,-0.001000
+139.477242,35.900571,-0.001000
+139.477295,35.900700,-0.001000
+139.477462,35.900622,-0.001000
+139.478406,35.900421,-0.001000
+139.478465,35.900476,-0.001000
+139.479983,35.900116,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>岸町二丁目</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>AC0003</name>
+<TimeStamp><when>2024-08-03T05:15:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.488928,35.899064,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0002</name>
+<TimeStamp><when>2024-08-03T05:16:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.488807,35.899026,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0003</name>
+<TimeStamp><when>2024-08-03T05:16:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.488545,35.898841,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>DR0020</name>
+<TimeStamp><when>2024-08-03T05:16:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.488451,35.898826,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0005</name>
+<TimeStamp><when>2024-08-03T05:16:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.488346,35.898811,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0006</name>
+<TimeStamp><when>2024-08-03T05:16:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.487761,35.898674,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0007</name>
+<TimeStamp><when>2024-08-03T05:16:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.487209,35.898369,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0008</name>
+<TimeStamp><when>2024-08-03T05:17:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.486908,35.898155,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0009</name>
+<TimeStamp><when>2024-08-03T05:17:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.486501,35.897850,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0010</name>
+<TimeStamp><when>2024-08-03T05:17:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.485551,35.897142,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZW0011</name>
+<TimeStamp><when>2024-08-03T05:17:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.485283,35.896949,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>HP0003</name>
+<TimeStamp><when>2024-08-03T05:17:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.485122,35.896853,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.488928,35.899064,0.000000
+139.488807,35.899026,-0.001000
+139.488545,35.898841,-0.001000
+139.488451,35.898826,-0.001000
+139.488346,35.898811,-0.001000
+139.487761,35.898674,-0.001000
+139.487209,35.898369,-0.001000
+139.486908,35.898155,-0.001000
+139.486501,35.897850,-0.001000
+139.485551,35.897142,-0.001000
+139.485283,35.896949,-0.001000
+139.485122,35.896853,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>道の駅庄和・幸手IC内回り入口</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>ZV0001</name>
+<TimeStamp><when>2024-08-03T05:12:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.794134,35.998002,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0002</name>
+<TimeStamp><when>2024-08-03T05:12:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.795057,35.997946,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0003</name>
+<TimeStamp><when>2024-08-03T05:12:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.795185,35.997242,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0004</name>
+<TimeStamp><when>2024-08-03T05:12:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.793855,35.997027,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0005</name>
+<TimeStamp><when>2024-08-03T05:13:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.793651,35.997611,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0006</name>
+<TimeStamp><when>2024-08-03T05:13:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.793657,35.997680,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0007</name>
+<TimeStamp><when>2024-08-03T05:13:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.793716,35.997723,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0008</name>
+<TimeStamp><when>2024-08-03T05:13:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.794096,35.997800,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0009</name>
+<TimeStamp><when>2024-08-03T05:13:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.794166,35.997860,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0010</name>
+<TimeStamp><when>2024-08-03T05:13:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.794172,35.997929,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0011</name>
+<TimeStamp><when>2024-08-03T05:14:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.794134,35.997997,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0012</name>
+<TimeStamp><when>2024-08-03T05:14:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.793351,35.998053,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>CC0052</name>
+<TimeStamp><when>2024-08-03T05:14:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.793203,35.998093,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0014</name>
+<TimeStamp><when>2024-08-03T05:14:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.792981,35.998122,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0015</name>
+<TimeStamp><when>2024-08-03T05:14:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.792734,35.998727,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0016</name>
+<TimeStamp><when>2024-08-03T05:14:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.792407,35.999392,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0017</name>
+<TimeStamp><when>2024-08-03T05:15:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.791409,36.001469,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0018</name>
+<TimeStamp><when>2024-08-03T05:15:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.789907,36.004362,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0019</name>
+<TimeStamp><when>2024-08-03T05:15:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.789617,36.004928,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0020</name>
+<TimeStamp><when>2024-08-03T05:15:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.789038,36.006078,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0021</name>
+<TimeStamp><when>2024-08-03T05:15:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.788748,36.006808,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0022</name>
+<TimeStamp><when>2024-08-03T05:15:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.788458,36.007752,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0023</name>
+<TimeStamp><when>2024-08-03T05:16:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.788212,36.008696,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0024</name>
+<TimeStamp><when>2024-08-03T05:16:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.788040,36.009717,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0025</name>
+<TimeStamp><when>2024-08-03T05:16:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.787954,36.010473,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0026</name>
+<TimeStamp><when>2024-08-03T05:16:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.787300,36.017502,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0027</name>
+<TimeStamp><when>2024-08-03T05:16:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.786484,36.025579,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0028</name>
+<TimeStamp><when>2024-08-03T05:16:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.786323,36.026720,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0029</name>
+<TimeStamp><when>2024-08-03T05:17:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.786173,36.027330,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0030</name>
+<TimeStamp><when>2024-08-03T05:17:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.785884,36.028248,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0031</name>
+<TimeStamp><when>2024-08-03T05:17:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.785626,36.028986,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0032</name>
+<TimeStamp><when>2024-08-03T05:17:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.785111,36.030145,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0033</name>
+<TimeStamp><when>2024-08-03T05:17:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.783523,36.033518,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0034</name>
+<TimeStamp><when>2024-08-03T05:17:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.781731,36.037372,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0035</name>
+<TimeStamp><when>2024-08-03T05:18:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.780916,36.039123,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0036</name>
+<TimeStamp><when>2024-08-03T05:18:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.780272,36.040471,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0037</name>
+<TimeStamp><when>2024-08-03T05:18:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.779800,36.041337,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0038</name>
+<TimeStamp><when>2024-08-03T05:18:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.779264,36.042179,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0039</name>
+<TimeStamp><when>2024-08-03T05:18:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.778019,36.043990,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0040</name>
+<TimeStamp><when>2024-08-03T05:18:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.777182,36.045157,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0041</name>
+<TimeStamp><when>2024-08-03T05:19:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.775627,36.047440,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0042</name>
+<TimeStamp><when>2024-08-03T05:19:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.773460,36.050496,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0043</name>
+<TimeStamp><when>2024-08-03T05:19:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.772961,36.051169,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0044</name>
+<TimeStamp><when>2024-08-03T05:19:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.772462,36.052006,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0045</name>
+<TimeStamp><when>2024-08-03T05:19:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.772033,36.053053,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0046</name>
+<TimeStamp><when>2024-08-03T05:19:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.771614,36.053156,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0047</name>
+<TimeStamp><when>2024-08-03T05:20:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.771260,36.053191,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0048</name>
+<TimeStamp><when>2024-08-03T05:20:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.771035,36.053156,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0049</name>
+<TimeStamp><when>2024-08-03T05:20:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.770042,36.053066,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0050</name>
+<TimeStamp><when>2024-08-03T05:20:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.769393,36.053010,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0051</name>
+<TimeStamp><when>2024-08-03T05:20:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.768986,36.053010,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0052</name>
+<TimeStamp><when>2024-08-03T05:20:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.768835,36.053032,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0053</name>
+<TimeStamp><when>2024-08-03T05:21:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.768567,36.053096,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0054</name>
+<TimeStamp><when>2024-08-03T05:21:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.768090,36.053328,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0055</name>
+<TimeStamp><when>2024-08-03T05:21:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.767805,36.053444,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0056</name>
+<TimeStamp><when>2024-08-03T05:21:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.767124,36.053680,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0057</name>
+<TimeStamp><when>2024-08-03T05:21:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.765214,36.054375,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0058</name>
+<TimeStamp><when>2024-08-03T05:21:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.763712,36.055002,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0059</name>
+<TimeStamp><when>2024-08-03T05:22:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.763412,36.055165,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0060</name>
+<TimeStamp><when>2024-08-03T05:22:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.762564,36.055654,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0061</name>
+<TimeStamp><when>2024-08-03T05:22:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761781,36.056152,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0062</name>
+<TimeStamp><when>2024-08-03T05:22:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761567,36.056306,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0063</name>
+<TimeStamp><when>2024-08-03T05:22:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761395,36.056401,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0064</name>
+<TimeStamp><when>2024-08-03T05:22:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760751,36.056607,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0065</name>
+<TimeStamp><when>2024-08-03T05:23:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760569,36.056693,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0066</name>
+<TimeStamp><when>2024-08-03T05:23:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760386,36.056907,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0067</name>
+<TimeStamp><when>2024-08-03T05:23:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760258,36.057122,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0068</name>
+<TimeStamp><when>2024-08-03T05:23:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760183,36.057328,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0069</name>
+<TimeStamp><when>2024-08-03T05:23:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760000,36.058315,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0070</name>
+<TimeStamp><when>2024-08-03T05:23:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.759989,36.058649,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0071</name>
+<TimeStamp><when>2024-08-03T05:24:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760043,36.059027,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0072</name>
+<TimeStamp><when>2024-08-03T05:24:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.759732,36.059001,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0073</name>
+<TimeStamp><when>2024-08-03T05:24:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.758455,36.058701,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0074</name>
+<TimeStamp><when>2024-08-03T05:24:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.757897,36.058589,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0075</name>
+<TimeStamp><when>2024-08-03T05:24:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.757543,36.058564,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0076</name>
+<TimeStamp><when>2024-08-03T05:24:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.754539,36.058160,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0077</name>
+<TimeStamp><when>2024-08-03T05:25:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.753981,36.058160,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0078</name>
+<TimeStamp><when>2024-08-03T05:25:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.753649,36.058186,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0079</name>
+<TimeStamp><when>2024-08-03T05:25:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.753198,36.058263,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0080</name>
+<TimeStamp><when>2024-08-03T05:25:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.752833,36.058358,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0081</name>
+<TimeStamp><when>2024-08-03T05:25:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.752522,36.058478,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0082</name>
+<TimeStamp><when>2024-08-03T05:25:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.751986,36.058744,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0083</name>
+<TimeStamp><when>2024-08-03T05:26:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.752469,36.059482,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0084</name>
+<TimeStamp><when>2024-08-03T05:26:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.751760,36.059971,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0085</name>
+<TimeStamp><when>2024-08-03T05:26:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.751170,36.060375,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0086</name>
+<TimeStamp><when>2024-08-03T05:26:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.747169,36.062812,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0087</name>
+<TimeStamp><when>2024-08-03T05:26:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.746621,36.063113,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0088</name>
+<TimeStamp><when>2024-08-03T05:26:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.746224,36.063259,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0089</name>
+<TimeStamp><when>2024-08-03T05:27:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.746053,36.063233,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0090</name>
+<TimeStamp><when>2024-08-03T05:27:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.744690,36.063593,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0091</name>
+<TimeStamp><when>2024-08-03T05:27:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.744272,36.063731,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0092</name>
+<TimeStamp><when>2024-08-03T05:27:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.743864,36.063868,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0093</name>
+<TimeStamp><when>2024-08-03T05:27:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.743478,36.064022,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0094</name>
+<TimeStamp><when>2024-08-03T05:27:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.743113,36.064220,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0095</name>
+<TimeStamp><when>2024-08-03T05:28:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.742748,36.064434,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0096</name>
+<TimeStamp><when>2024-08-03T05:28:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.740989,36.065636,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0097</name>
+<TimeStamp><when>2024-08-03T05:28:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.739444,36.064812,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0098</name>
+<TimeStamp><when>2024-08-03T05:28:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.738081,36.064177,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0099</name>
+<TimeStamp><when>2024-08-03T05:28:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.737555,36.063962,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0100</name>
+<TimeStamp><when>2024-08-03T05:28:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.737105,36.063877,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0101</name>
+<TimeStamp><when>2024-08-03T05:29:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.736311,36.063598,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0102</name>
+<TimeStamp><when>2024-08-03T05:29:16Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.735635,36.063400,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0103</name>
+<TimeStamp><when>2024-08-03T05:29:26Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.734873,36.063173,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0104</name>
+<TimeStamp><when>2024-08-03T05:29:36Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.734433,36.063048,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0105</name>
+<TimeStamp><when>2024-08-03T05:29:46Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.733854,36.062902,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0106</name>
+<TimeStamp><when>2024-08-03T05:29:56Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.733028,36.062731,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZV0107</name>
+<TimeStamp><when>2024-08-03T05:30:06Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.732331,36.062653,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.794134,35.998002,-0.001000
+139.795057,35.997946,-0.001000
+139.795185,35.997242,-0.001000
+139.793855,35.997027,-0.001000
+139.793651,35.997611,-0.001000
+139.793657,35.997680,-0.001000
+139.793716,35.997723,-0.001000
+139.794096,35.997800,-0.001000
+139.794166,35.997860,-0.001000
+139.794172,35.997929,-0.001000
+139.794134,35.997997,-0.001000
+139.793351,35.998053,-0.001000
+139.793203,35.998093,0.000000
+139.792981,35.998122,-0.001000
+139.792734,35.998727,-0.001000
+139.792407,35.999392,-0.001000
+139.791409,36.001469,-0.001000
+139.789907,36.004362,-0.001000
+139.789617,36.004928,-0.001000
+139.789038,36.006078,-0.001000
+139.788748,36.006808,-0.001000
+139.788458,36.007752,-0.001000
+139.788212,36.008696,-0.001000
+139.788040,36.009717,-0.001000
+139.787954,36.010473,-0.001000
+139.787300,36.017502,-0.001000
+139.786484,36.025579,-0.001000
+139.786323,36.026720,-0.001000
+139.786173,36.027330,-0.001000
+139.785884,36.028248,-0.001000
+139.785626,36.028986,-0.001000
+139.785111,36.030145,-0.001000
+139.783523,36.033518,-0.001000
+139.781731,36.037372,-0.001000
+139.780916,36.039123,-0.001000
+139.780272,36.040471,-0.001000
+139.779800,36.041337,-0.001000
+139.779264,36.042179,-0.001000
+139.778019,36.043990,-0.001000
+139.777182,36.045157,-0.001000
+139.775627,36.047440,-0.001000
+139.773460,36.050496,-0.001000
+139.772961,36.051169,-0.001000
+139.772462,36.052006,-0.001000
+139.772033,36.053053,-0.001000
+139.771614,36.053156,-0.001000
+139.771260,36.053191,-0.001000
+139.771035,36.053156,-0.001000
+139.770042,36.053066,-0.001000
+139.769393,36.053010,-0.001000
+139.768986,36.053010,-0.001000
+139.768835,36.053032,-0.001000
+139.768567,36.053096,-0.001000
+139.768090,36.053328,-0.001000
+139.767805,36.053444,-0.001000
+139.767124,36.053680,-0.001000
+139.765214,36.054375,-0.001000
+139.763712,36.055002,-0.001000
+139.763412,36.055165,-0.001000
+139.762564,36.055654,-0.001000
+139.761781,36.056152,-0.001000
+139.761567,36.056306,-0.001000
+139.761395,36.056401,-0.001000
+139.760751,36.056607,-0.001000
+139.760569,36.056693,-0.001000
+139.760386,36.056907,-0.001000
+139.760258,36.057122,-0.001000
+139.760183,36.057328,-0.001000
+139.760000,36.058315,-0.001000
+139.759989,36.058649,-0.001000
+139.760043,36.059027,-0.001000
+139.759732,36.059001,-0.001000
+139.758455,36.058701,-0.001000
+139.757897,36.058589,-0.001000
+139.757543,36.058564,-0.001000
+139.754539,36.058160,-0.001000
+139.753981,36.058160,-0.001000
+139.753649,36.058186,-0.001000
+139.753198,36.058263,-0.001000
+139.752833,36.058358,-0.001000
+139.752522,36.058478,-0.001000
+139.751986,36.058744,-0.001000
+139.752469,36.059482,-0.001000
+139.751760,36.059971,-0.001000
+139.751170,36.060375,-0.001000
+139.747169,36.062812,-0.001000
+139.746621,36.063113,-0.001000
+139.746224,36.063259,-0.001000
+139.746053,36.063233,-0.001000
+139.744690,36.063593,-0.001000
+139.744272,36.063731,-0.001000
+139.743864,36.063868,-0.001000
+139.743478,36.064022,-0.001000
+139.743113,36.064220,-0.001000
+139.742748,36.064434,-0.001000
+139.740989,36.065636,-0.001000
+139.739444,36.064812,-0.001000
+139.738081,36.064177,-0.001000
+139.737555,36.063962,-0.001000
+139.737105,36.063877,-0.001000
+139.736311,36.063598,-0.001000
+139.735635,36.063400,-0.001000
+139.734873,36.063173,-0.001000
+139.734433,36.063048,-0.001000
+139.733854,36.062902,-0.001000
+139.733028,36.062731,-0.001000
+139.732331,36.062653,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>五霞IC外回り出口</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>ZU0001</name>
+<TimeStamp><when>2024-08-03T04:56:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761626,36.090201,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0002</name>
+<TimeStamp><when>2024-08-03T04:57:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761770,36.091115,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0003</name>
+<TimeStamp><when>2024-08-03T04:57:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761899,36.091930,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0004</name>
+<TimeStamp><when>2024-08-03T04:57:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761931,36.092428,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0005</name>
+<TimeStamp><when>2024-08-03T04:57:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761835,36.093098,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0006</name>
+<TimeStamp><when>2024-08-03T04:57:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761760,36.093759,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0007</name>
+<TimeStamp><when>2024-08-03T04:57:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761663,36.094325,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0008</name>
+<TimeStamp><when>2024-08-03T04:58:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761545,36.094754,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0009</name>
+<TimeStamp><when>2024-08-03T04:58:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761449,36.094964,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0010</name>
+<TimeStamp><when>2024-08-03T04:58:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761325,36.095128,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0011</name>
+<TimeStamp><when>2024-08-03T04:58:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761175,36.095252,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0012</name>
+<TimeStamp><when>2024-08-03T04:58:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760998,36.095329,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0013</name>
+<TimeStamp><when>2024-08-03T04:58:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760816,36.095359,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0014</name>
+<TimeStamp><when>2024-08-03T04:59:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760649,36.095355,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0015</name>
+<TimeStamp><when>2024-08-03T04:59:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760488,36.095303,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0016</name>
+<TimeStamp><when>2024-08-03T04:59:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760215,36.095085,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0017</name>
+<TimeStamp><when>2024-08-03T04:59:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760183,36.094861,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0018</name>
+<TimeStamp><when>2024-08-03T04:59:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760242,36.094621,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0019</name>
+<TimeStamp><when>2024-08-03T04:59:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760370,36.094411,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0020</name>
+<TimeStamp><when>2024-08-03T05:00:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.760612,36.094183,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0021</name>
+<TimeStamp><when>2024-08-03T05:00:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761277,36.093763,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0022</name>
+<TimeStamp><when>2024-08-03T05:00:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.761733,36.093432,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0023</name>
+<TimeStamp><when>2024-08-03T05:00:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.762125,36.093111,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0024</name>
+<TimeStamp><when>2024-08-03T05:00:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.762489,36.092784,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0025</name>
+<TimeStamp><when>2024-08-03T05:00:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.763391,36.091917,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0026</name>
+<TimeStamp><when>2024-08-03T05:01:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764147,36.091119,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0027</name>
+<TimeStamp><when>2024-08-03T05:01:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764555,36.090724,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0028</name>
+<TimeStamp><when>2024-08-03T05:01:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764716,36.090454,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0029</name>
+<TimeStamp><when>2024-08-03T05:01:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764860,36.090252,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0030</name>
+<TimeStamp><when>2024-08-03T05:01:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764946,36.090012,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0031</name>
+<TimeStamp><when>2024-08-03T05:01:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764968,36.089866,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0032</name>
+<TimeStamp><when>2024-08-03T05:02:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764978,36.089514,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0033</name>
+<TimeStamp><when>2024-08-03T05:02:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764925,36.089051,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0034</name>
+<TimeStamp><when>2024-08-03T05:02:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764935,36.088905,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0035</name>
+<TimeStamp><when>2024-08-03T05:02:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.764989,36.088682,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ZU0036</name>
+<TimeStamp><when>2024-08-03T05:02:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.765118,36.088416,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>CC0008</name>
+<TimeStamp><when>2024-08-03T05:02:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.765705,36.087709,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.761626,36.090201,-0.001000
+139.761770,36.091115,-0.001000
+139.761899,36.091930,-0.001000
+139.761931,36.092428,-0.001000
+139.761835,36.093098,-0.001000
+139.761760,36.093759,-0.001000
+139.761663,36.094325,-0.001000
+139.761545,36.094754,-0.001000
+139.761449,36.094964,-0.001000
+139.761325,36.095128,-0.001000
+139.761175,36.095252,-0.001000
+139.760998,36.095329,-0.001000
+139.760816,36.095359,-0.001000
+139.760649,36.095355,-0.001000
+139.760488,36.095303,-0.001000
+139.760215,36.095085,-0.001000
+139.760183,36.094861,-0.001000
+139.760242,36.094621,-0.001000
+139.760370,36.094411,-0.001000
+139.760612,36.094183,-0.001000
+139.761277,36.093763,-0.001000
+139.761733,36.093432,-0.001000
+139.762125,36.093111,-0.001000
+139.762489,36.092784,-0.001000
+139.763391,36.091917,-0.001000
+139.764147,36.091119,-0.001000
+139.764555,36.090724,-0.001000
+139.764716,36.090454,-0.001000
+139.764860,36.090252,-0.001000
+139.764946,36.090012,-0.001000
+139.764968,36.089866,-0.001000
+139.764978,36.089514,-0.001000
+139.764925,36.089051,-0.001000
+139.764935,36.088905,-0.001000
+139.764989,36.088682,-0.001000
+139.765118,36.088416,-0.001000
+139.765705,36.087709,0.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>
