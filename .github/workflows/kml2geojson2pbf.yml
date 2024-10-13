@@ -45,6 +45,8 @@ jobs:
           path: gh-pages
 
       # タイル生成
+      - name: APT
+        run: sudo apt-get install -y libsqlite3-dev
       - name: NPM
         run: npm install -g @mapbox/togeojson @mapbox/geojson-merge
       - name: Convert to GeoJSON files
