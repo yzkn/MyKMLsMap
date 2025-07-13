@@ -29,6 +29,6154 @@
 <Folder>
 <name>Routes</name>
 <Folder>
+<name>伊勢原JCT東行</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>SH0188</name>
+<TimeStamp><when>2025-07-13T06:54:51Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.305173,35.414298,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0002</name>
+<TimeStamp><when>2025-07-13T06:55:01Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.305489,35.414212,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0003</name>
+<TimeStamp><when>2025-07-13T06:55:11Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.306026,35.414066,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0004</name>
+<TimeStamp><when>2025-07-13T06:55:21Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.309706,35.412838,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0005</name>
+<TimeStamp><when>2025-07-13T06:55:31Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.310210,35.412693,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0006</name>
+<TimeStamp><when>2025-07-13T06:55:41Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.310521,35.412632,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0007</name>
+<TimeStamp><when>2025-07-13T06:55:51Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.310897,35.412581,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0008</name>
+<TimeStamp><when>2025-07-13T06:56:01Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.311197,35.412555,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0009</name>
+<TimeStamp><when>2025-07-13T06:56:11Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.311562,35.412555,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0010</name>
+<TimeStamp><when>2025-07-13T06:56:21Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.311916,35.412572,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0011</name>
+<TimeStamp><when>2025-07-13T06:56:31Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.312334,35.412624,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0012</name>
+<TimeStamp><when>2025-07-13T06:56:41Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.313042,35.412710,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0013</name>
+<TimeStamp><when>2025-07-13T06:56:51Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.313643,35.412796,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0014</name>
+<TimeStamp><when>2025-07-13T06:57:01Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.314620,35.412967,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0015</name>
+<TimeStamp><when>2025-07-13T06:57:11Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.315242,35.413087,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0016</name>
+<TimeStamp><when>2025-07-13T06:57:21Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.315982,35.413250,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EF0017</name>
+<TimeStamp><when>2025-07-13T06:57:31Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.316755,35.413319,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.305173,35.414298,-0.001000
+139.305489,35.414212,-0.001000
+139.306026,35.414066,-0.001000
+139.309706,35.412838,-0.001000
+139.310210,35.412693,-0.001000
+139.310521,35.412632,-0.001000
+139.310897,35.412581,-0.001000
+139.311197,35.412555,-0.001000
+139.311562,35.412555,-0.001000
+139.311916,35.412572,-0.001000
+139.312334,35.412624,-0.001000
+139.313042,35.412710,-0.001000
+139.313643,35.412796,-0.001000
+139.314620,35.412967,-0.001000
+139.315242,35.413087,-0.001000
+139.315982,35.413250,-0.001000
+139.316755,35.413319,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>新秦野IC入口</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>EE0001</name>
+<TimeStamp><when>2025-07-13T06:51:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164545,35.374519,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0002</name>
+<TimeStamp><when>2025-07-13T06:51:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164518,35.374425,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0003</name>
+<TimeStamp><when>2025-07-13T06:51:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164507,35.374369,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0004</name>
+<TimeStamp><when>2025-07-13T06:51:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164518,35.374305,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0005</name>
+<TimeStamp><when>2025-07-13T06:51:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164566,35.374245,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0006</name>
+<TimeStamp><when>2025-07-13T06:51:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164663,35.374159,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0007</name>
+<TimeStamp><when>2025-07-13T06:52:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164807,35.374073,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0008</name>
+<TimeStamp><when>2025-07-13T06:52:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164888,35.374052,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0009</name>
+<TimeStamp><when>2025-07-13T06:52:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165017,35.374047,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0010</name>
+<TimeStamp><when>2025-07-13T06:52:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165103,35.374069,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0011</name>
+<TimeStamp><when>2025-07-13T06:52:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165188,35.374116,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0012</name>
+<TimeStamp><when>2025-07-13T06:52:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165263,35.374198,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0013</name>
+<TimeStamp><when>2025-07-13T06:53:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165296,35.374331,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0014</name>
+<TimeStamp><when>2025-07-13T06:53:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165247,35.374464,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0015</name>
+<TimeStamp><when>2025-07-13T06:53:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.165103,35.374631,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0016</name>
+<TimeStamp><when>2025-07-13T06:53:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164963,35.374743,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0017</name>
+<TimeStamp><when>2025-07-13T06:53:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164684,35.374910,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0018</name>
+<TimeStamp><when>2025-07-13T06:53:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164555,35.374974,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0019</name>
+<TimeStamp><when>2025-07-13T06:54:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164437,35.375013,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0020</name>
+<TimeStamp><when>2025-07-13T06:54:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164309,35.375039,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0021</name>
+<TimeStamp><when>2025-07-13T06:54:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164180,35.375043,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0022</name>
+<TimeStamp><when>2025-07-13T06:54:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.164046,35.375034,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0023</name>
+<TimeStamp><when>2025-07-13T06:54:44Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.163890,35.374996,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0024</name>
+<TimeStamp><when>2025-07-13T06:54:54Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.163466,35.374833,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0025</name>
+<TimeStamp><when>2025-07-13T06:55:04Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.163220,35.374725,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0026</name>
+<TimeStamp><when>2025-07-13T06:55:14Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.162957,35.374597,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EE0027</name>
+<TimeStamp><when>2025-07-13T06:55:24Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.162790,35.374506,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>SH0018</name>
+<TimeStamp><when>2025-07-13T06:55:34Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.162275,35.374181,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.164545,35.374519,-0.001000
+139.164518,35.374425,-0.001000
+139.164507,35.374369,-0.001000
+139.164518,35.374305,-0.001000
+139.164566,35.374245,-0.001000
+139.164663,35.374159,-0.001000
+139.164807,35.374073,-0.001000
+139.164888,35.374052,-0.001000
+139.165017,35.374047,-0.001000
+139.165103,35.374069,-0.001000
+139.165188,35.374116,-0.001000
+139.165263,35.374198,-0.001000
+139.165296,35.374331,-0.001000
+139.165247,35.374464,-0.001000
+139.165103,35.374631,-0.001000
+139.164963,35.374743,-0.001000
+139.164684,35.374910,-0.001000
+139.164555,35.374974,-0.001000
+139.164437,35.375013,-0.001000
+139.164309,35.375039,-0.001000
+139.164180,35.375043,-0.001000
+139.164046,35.375034,-0.001000
+139.163890,35.374996,-0.001000
+139.163466,35.374833,-0.001000
+139.163220,35.374725,-0.001000
+139.162957,35.374597,-0.001000
+139.162790,35.374506,-0.001000
+139.162275,35.374181,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>比々多神社・伊勢原板戸</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>EB0209</name>
+<TimeStamp><when>2025-07-13T06:47:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275996,35.417117,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0002</name>
+<TimeStamp><when>2025-07-13T06:47:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.276334,35.417070,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0003</name>
+<TimeStamp><when>2025-07-13T06:47:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.276645,35.417061,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0004</name>
+<TimeStamp><when>2025-07-13T06:47:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.276849,35.417087,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0005</name>
+<TimeStamp><when>2025-07-13T06:47:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.277235,35.417087,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0006</name>
+<TimeStamp><when>2025-07-13T06:48:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.277417,35.417053,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0007</name>
+<TimeStamp><when>2025-07-13T06:48:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.277546,35.417018,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0008</name>
+<TimeStamp><when>2025-07-13T06:48:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.277728,35.416915,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0009</name>
+<TimeStamp><when>2025-07-13T06:48:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.278480,35.416606,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0010</name>
+<TimeStamp><when>2025-07-13T06:48:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279059,35.416358,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0011</name>
+<TimeStamp><when>2025-07-13T06:48:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279252,35.416263,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0012</name>
+<TimeStamp><when>2025-07-13T06:49:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279343,35.416207,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0013</name>
+<TimeStamp><when>2025-07-13T06:49:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279509,35.416074,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0014</name>
+<TimeStamp><when>2025-07-13T06:49:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279633,35.415984,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0015</name>
+<TimeStamp><when>2025-07-13T06:49:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279821,35.415898,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0016</name>
+<TimeStamp><when>2025-07-13T06:49:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279933,35.415864,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0017</name>
+<TimeStamp><when>2025-07-13T06:49:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280185,35.415808,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0018</name>
+<TimeStamp><when>2025-07-13T06:50:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280314,35.415787,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0019</name>
+<TimeStamp><when>2025-07-13T06:50:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280491,35.415735,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0020</name>
+<TimeStamp><when>2025-07-13T06:50:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280636,35.415692,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0021</name>
+<TimeStamp><when>2025-07-13T06:50:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280818,35.415611,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0022</name>
+<TimeStamp><when>2025-07-13T06:50:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280953,35.415542,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0023</name>
+<TimeStamp><when>2025-07-13T06:50:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.281146,35.415452,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0024</name>
+<TimeStamp><when>2025-07-13T06:51:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.281339,35.415340,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0025</name>
+<TimeStamp><when>2025-07-13T06:51:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.281746,35.415083,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0026</name>
+<TimeStamp><when>2025-07-13T06:51:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.282138,35.414800,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0027</name>
+<TimeStamp><when>2025-07-13T06:51:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.282256,35.414710,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0028</name>
+<TimeStamp><when>2025-07-13T06:51:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.282503,35.414547,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0029</name>
+<TimeStamp><when>2025-07-13T06:51:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.282680,35.414439,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0030</name>
+<TimeStamp><when>2025-07-13T06:52:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.282776,35.414388,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0031</name>
+<TimeStamp><when>2025-07-13T06:52:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283039,35.414259,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0032</name>
+<TimeStamp><when>2025-07-13T06:52:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283189,35.414199,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0033</name>
+<TimeStamp><when>2025-07-13T06:52:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283329,35.414152,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0034</name>
+<TimeStamp><when>2025-07-13T06:52:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283517,35.414096,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0035</name>
+<TimeStamp><when>2025-07-13T06:52:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283839,35.413984,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0036</name>
+<TimeStamp><when>2025-07-13T06:53:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284311,35.413778,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0037</name>
+<TimeStamp><when>2025-07-13T06:53:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284686,35.413547,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0038</name>
+<TimeStamp><when>2025-07-13T06:53:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284804,35.413452,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0039</name>
+<TimeStamp><when>2025-07-13T06:53:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285083,35.413178,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0040</name>
+<TimeStamp><when>2025-07-13T06:53:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285555,35.412748,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0041</name>
+<TimeStamp><when>2025-07-13T06:53:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285748,35.412602,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0042</name>
+<TimeStamp><when>2025-07-13T06:54:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285995,35.412457,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0043</name>
+<TimeStamp><when>2025-07-13T06:54:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286660,35.412113,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0059</name>
+<TimeStamp><when>2025-07-13T06:54:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287492,35.411650,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0045</name>
+<TimeStamp><when>2025-07-13T06:54:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287969,35.411401,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0046</name>
+<TimeStamp><when>2025-07-13T06:54:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288752,35.410946,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0047</name>
+<TimeStamp><when>2025-07-13T06:54:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.289149,35.410688,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0048</name>
+<TimeStamp><when>2025-07-13T06:55:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.290963,35.409195,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0049</name>
+<TimeStamp><when>2025-07-13T06:55:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291950,35.408397,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0050</name>
+<TimeStamp><when>2025-07-13T06:55:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.292969,35.407564,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0051</name>
+<TimeStamp><when>2025-07-13T06:55:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.293205,35.407384,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0052</name>
+<TimeStamp><when>2025-07-13T06:55:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.293409,35.407178,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0053</name>
+<TimeStamp><when>2025-07-13T06:55:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.293537,35.407015,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0054</name>
+<TimeStamp><when>2025-07-13T06:56:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.293591,35.406929,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0055</name>
+<TimeStamp><when>2025-07-13T06:56:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.294095,35.406199,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0056</name>
+<TimeStamp><when>2025-07-13T06:56:20Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.294825,35.405075,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0057</name>
+<TimeStamp><when>2025-07-13T06:56:30Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.297507,35.401101,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0058</name>
+<TimeStamp><when>2025-07-13T06:56:40Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.298226,35.400045,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0059</name>
+<TimeStamp><when>2025-07-13T06:56:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.298430,35.399711,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0060</name>
+<TimeStamp><when>2025-07-13T06:57:00Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.298677,35.399299,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>ED0061</name>
+<TimeStamp><when>2025-07-13T06:57:10Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.298923,35.398827,-1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.275996,35.417117,-0.001000
+139.276334,35.417070,-0.001000
+139.276645,35.417061,-0.001000
+139.276849,35.417087,-0.001000
+139.277235,35.417087,-0.001000
+139.277417,35.417053,-0.001000
+139.277546,35.417018,-0.001000
+139.277728,35.416915,-0.001000
+139.278480,35.416606,-0.001000
+139.279059,35.416358,-0.001000
+139.279252,35.416263,-0.001000
+139.279343,35.416207,-0.001000
+139.279509,35.416074,-0.001000
+139.279633,35.415984,-0.001000
+139.279821,35.415898,-0.001000
+139.279933,35.415864,-0.001000
+139.280185,35.415808,-0.001000
+139.280314,35.415787,-0.001000
+139.280491,35.415735,-0.001000
+139.280636,35.415692,-0.001000
+139.280818,35.415611,-0.001000
+139.280953,35.415542,-0.001000
+139.281146,35.415452,-0.001000
+139.281339,35.415340,-0.001000
+139.281746,35.415083,-0.001000
+139.282138,35.414800,-0.001000
+139.282256,35.414710,-0.001000
+139.282503,35.414547,-0.001000
+139.282680,35.414439,-0.001000
+139.282776,35.414388,-0.001000
+139.283039,35.414259,-0.001000
+139.283189,35.414199,-0.001000
+139.283329,35.414152,-0.001000
+139.283517,35.414096,-0.001000
+139.283839,35.413984,-0.001000
+139.284311,35.413778,-0.001000
+139.284686,35.413547,-0.001000
+139.284804,35.413452,-0.001000
+139.285083,35.413178,-0.001000
+139.285555,35.412748,-0.001000
+139.285748,35.412602,-0.001000
+139.285995,35.412457,-0.001000
+139.286660,35.412113,-0.001000
+139.287492,35.411650,-0.001000
+139.287969,35.411401,-0.001000
+139.288752,35.410946,-0.001000
+139.289149,35.410688,-0.001000
+139.290963,35.409195,-0.001000
+139.291950,35.408397,-0.001000
+139.292969,35.407564,-0.001000
+139.293205,35.407384,-0.001000
+139.293409,35.407178,-0.001000
+139.293537,35.407015,-0.001000
+139.293591,35.406929,-0.001000
+139.294095,35.406199,-0.001000
+139.294825,35.405075,-0.001000
+139.297507,35.401101,-0.001000
+139.298226,35.400045,-0.001000
+139.298430,35.399711,-0.001000
+139.298677,35.399299,-0.001000
+139.298923,35.398827,-1.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>大山とうふ坂</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>EB0130</name>
+<TimeStamp><when>2025-07-13T06:41:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259382,35.418181,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0002</name>
+<TimeStamp><when>2025-07-13T06:41:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259296,35.418237,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0003</name>
+<TimeStamp><when>2025-07-13T06:41:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.258942,35.418529,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0004</name>
+<TimeStamp><when>2025-07-13T06:41:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.258846,35.418615,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0005</name>
+<TimeStamp><when>2025-07-13T06:42:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.258406,35.418924,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0006</name>
+<TimeStamp><when>2025-07-13T06:42:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.258240,35.419031,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0007</name>
+<TimeStamp><when>2025-07-13T06:42:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.258132,35.419078,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0008</name>
+<TimeStamp><when>2025-07-13T06:42:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.257993,35.419130,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0009</name>
+<TimeStamp><when>2025-07-13T06:42:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.257859,35.419156,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0010</name>
+<TimeStamp><when>2025-07-13T06:42:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.257746,35.419168,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0011</name>
+<TimeStamp><when>2025-07-13T06:43:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.257612,35.419186,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0012</name>
+<TimeStamp><when>2025-07-13T06:43:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.257167,35.419211,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0013</name>
+<TimeStamp><when>2025-07-13T06:43:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256957,35.419233,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0014</name>
+<TimeStamp><when>2025-07-13T06:43:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256813,35.419259,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0015</name>
+<TimeStamp><when>2025-07-13T06:43:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256700,35.419280,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0016</name>
+<TimeStamp><when>2025-07-13T06:43:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256587,35.419314,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0017</name>
+<TimeStamp><when>2025-07-13T06:44:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256518,35.419353,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0018</name>
+<TimeStamp><when>2025-07-13T06:44:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256421,35.419417,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0019</name>
+<TimeStamp><when>2025-07-13T06:44:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256249,35.419559,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0020</name>
+<TimeStamp><when>2025-07-13T06:44:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.256083,35.419683,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0021</name>
+<TimeStamp><when>2025-07-13T06:44:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255890,35.419851,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0022</name>
+<TimeStamp><when>2025-07-13T06:44:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255541,35.420134,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0023</name>
+<TimeStamp><when>2025-07-13T06:45:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255294,35.420323,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0024</name>
+<TimeStamp><when>2025-07-13T06:45:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255252,35.420374,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0025</name>
+<TimeStamp><when>2025-07-13T06:45:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255219,35.420422,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0026</name>
+<TimeStamp><when>2025-07-13T06:45:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255107,35.420709,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0027</name>
+<TimeStamp><when>2025-07-13T06:45:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.255048,35.420846,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0028</name>
+<TimeStamp><when>2025-07-13T06:45:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.254999,35.420928,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0029</name>
+<TimeStamp><when>2025-07-13T06:46:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.254946,35.421018,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0030</name>
+<TimeStamp><when>2025-07-13T06:46:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.254651,35.421387,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0031</name>
+<TimeStamp><when>2025-07-13T06:46:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.254490,35.421576,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0032</name>
+<TimeStamp><when>2025-07-13T06:46:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.254297,35.421782,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0033</name>
+<TimeStamp><when>2025-07-13T06:46:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.254168,35.421876,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0034</name>
+<TimeStamp><when>2025-07-13T06:46:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.253841,35.422082,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0035</name>
+<TimeStamp><when>2025-07-13T06:47:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.253192,35.422469,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0036</name>
+<TimeStamp><when>2025-07-13T06:47:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.252999,35.422563,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0037</name>
+<TimeStamp><when>2025-07-13T06:47:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.252891,35.422597,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0038</name>
+<TimeStamp><when>2025-07-13T06:47:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.252543,35.422658,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0039</name>
+<TimeStamp><when>2025-07-13T06:47:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.252382,35.422696,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0040</name>
+<TimeStamp><when>2025-07-13T06:47:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.252253,35.422735,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0041</name>
+<TimeStamp><when>2025-07-13T06:48:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.252081,35.422812,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0042</name>
+<TimeStamp><when>2025-07-13T06:48:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251888,35.422881,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0043</name>
+<TimeStamp><when>2025-07-13T06:48:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251679,35.422962,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0044</name>
+<TimeStamp><when>2025-07-13T06:48:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251582,35.423001,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0045</name>
+<TimeStamp><when>2025-07-13T06:48:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251475,35.423052,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0046</name>
+<TimeStamp><when>2025-07-13T06:48:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251368,35.423104,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0047</name>
+<TimeStamp><when>2025-07-13T06:49:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251282,35.423151,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0048</name>
+<TimeStamp><when>2025-07-13T06:49:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251223,35.423147,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0049</name>
+<TimeStamp><when>2025-07-13T06:49:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251164,35.423142,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0050</name>
+<TimeStamp><when>2025-07-13T06:49:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251116,35.423155,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0051</name>
+<TimeStamp><when>2025-07-13T06:49:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250976,35.423220,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0052</name>
+<TimeStamp><when>2025-07-13T06:49:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250912,35.423258,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0053</name>
+<TimeStamp><when>2025-07-13T06:50:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250821,35.423314,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0054</name>
+<TimeStamp><when>2025-07-13T06:50:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250692,35.423370,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0055</name>
+<TimeStamp><when>2025-07-13T06:50:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250574,35.423417,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0056</name>
+<TimeStamp><when>2025-07-13T06:50:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250499,35.423451,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0057</name>
+<TimeStamp><when>2025-07-13T06:50:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250402,35.423481,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0058</name>
+<TimeStamp><when>2025-07-13T06:50:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250332,35.423503,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0059</name>
+<TimeStamp><when>2025-07-13T06:51:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250257,35.423524,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0060</name>
+<TimeStamp><when>2025-07-13T06:51:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249834,35.423563,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0061</name>
+<TimeStamp><when>2025-07-13T06:51:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249748,35.423584,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0062</name>
+<TimeStamp><when>2025-07-13T06:51:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249587,35.423636,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0063</name>
+<TimeStamp><when>2025-07-13T06:51:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249479,35.423679,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0064</name>
+<TimeStamp><when>2025-07-13T06:51:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249378,35.423739,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0065</name>
+<TimeStamp><when>2025-07-13T06:52:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249281,35.423778,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0066</name>
+<TimeStamp><when>2025-07-13T06:52:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248991,35.423915,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0067</name>
+<TimeStamp><when>2025-07-13T06:52:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248804,35.424005,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0068</name>
+<TimeStamp><when>2025-07-13T06:52:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248680,35.424065,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0069</name>
+<TimeStamp><when>2025-07-13T06:52:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248487,35.424168,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0070</name>
+<TimeStamp><when>2025-07-13T06:52:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248267,35.424280,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0071</name>
+<TimeStamp><when>2025-07-13T06:53:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248122,35.424366,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0072</name>
+<TimeStamp><when>2025-07-13T06:53:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248085,35.424400,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0073</name>
+<TimeStamp><when>2025-07-13T06:53:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248079,35.424443,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0074</name>
+<TimeStamp><when>2025-07-13T06:53:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248106,35.424580,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0075</name>
+<TimeStamp><when>2025-07-13T06:53:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248165,35.424567,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0076</name>
+<TimeStamp><when>2025-07-13T06:53:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248219,35.424546,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0077</name>
+<TimeStamp><when>2025-07-13T06:54:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248321,35.424524,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0078</name>
+<TimeStamp><when>2025-07-13T06:54:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248385,35.424524,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0079</name>
+<TimeStamp><when>2025-07-13T06:54:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248444,35.424520,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0080</name>
+<TimeStamp><when>2025-07-13T06:54:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248530,35.424503,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0081</name>
+<TimeStamp><when>2025-07-13T06:54:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248664,35.424469,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0082</name>
+<TimeStamp><when>2025-07-13T06:54:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248745,35.424494,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0083</name>
+<TimeStamp><when>2025-07-13T06:55:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.248830,35.424499,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0084</name>
+<TimeStamp><when>2025-07-13T06:55:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249201,35.424340,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0085</name>
+<TimeStamp><when>2025-07-13T06:55:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249635,35.424168,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0086</name>
+<TimeStamp><when>2025-07-13T06:55:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249565,35.423992,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0087</name>
+<TimeStamp><when>2025-07-13T06:55:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249324,35.424078,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0088</name>
+<TimeStamp><when>2025-07-13T06:55:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249297,35.424250,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0089</name>
+<TimeStamp><when>2025-07-13T06:56:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249195,35.424340,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0090</name>
+<TimeStamp><when>2025-07-13T06:56:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249142,35.424241,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0091</name>
+<TimeStamp><when>2025-07-13T06:56:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249104,35.424164,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0092</name>
+<TimeStamp><when>2025-07-13T06:56:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249061,35.424082,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0093</name>
+<TimeStamp><when>2025-07-13T06:56:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249195,35.424044,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0094</name>
+<TimeStamp><when>2025-07-13T06:56:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249367,35.423988,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0095</name>
+<TimeStamp><when>2025-07-13T06:57:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249640,35.423889,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0096</name>
+<TimeStamp><when>2025-07-13T06:57:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.249930,35.423799,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0097</name>
+<TimeStamp><when>2025-07-13T06:57:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250016,35.423769,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0098</name>
+<TimeStamp><when>2025-07-13T06:57:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250134,35.423722,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0099</name>
+<TimeStamp><when>2025-07-13T06:57:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250220,35.423683,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0100</name>
+<TimeStamp><when>2025-07-13T06:57:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250284,35.423657,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0101</name>
+<TimeStamp><when>2025-07-13T06:58:09Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250542,35.423572,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0102</name>
+<TimeStamp><when>2025-07-13T06:58:19Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250767,35.423490,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0103</name>
+<TimeStamp><when>2025-07-13T06:58:29Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250863,35.423443,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0104</name>
+<TimeStamp><when>2025-07-13T06:58:39Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.250949,35.423396,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0105</name>
+<TimeStamp><when>2025-07-13T06:58:49Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251185,35.423224,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EC0106</name>
+<TimeStamp><when>2025-07-13T06:58:59Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.251271,35.423155,-1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.259382,35.418181,-0.001000
+139.259296,35.418237,-0.001000
+139.258942,35.418529,-0.001000
+139.258846,35.418615,-0.001000
+139.258406,35.418924,-0.001000
+139.258240,35.419031,-0.001000
+139.258132,35.419078,-0.001000
+139.257993,35.419130,-0.001000
+139.257859,35.419156,-0.001000
+139.257746,35.419168,-0.001000
+139.257612,35.419186,-0.001000
+139.257167,35.419211,-0.001000
+139.256957,35.419233,-0.001000
+139.256813,35.419259,-0.001000
+139.256700,35.419280,-0.001000
+139.256587,35.419314,-0.001000
+139.256518,35.419353,-0.001000
+139.256421,35.419417,-0.001000
+139.256249,35.419559,-0.001000
+139.256083,35.419683,-0.001000
+139.255890,35.419851,-0.001000
+139.255541,35.420134,-0.001000
+139.255294,35.420323,-0.001000
+139.255252,35.420374,-0.001000
+139.255219,35.420422,-0.001000
+139.255107,35.420709,-0.001000
+139.255048,35.420846,-0.001000
+139.254999,35.420928,-0.001000
+139.254946,35.421018,-0.001000
+139.254651,35.421387,-0.001000
+139.254490,35.421576,-0.001000
+139.254297,35.421782,-0.001000
+139.254168,35.421876,-0.001000
+139.253841,35.422082,-0.001000
+139.253192,35.422469,-0.001000
+139.252999,35.422563,-0.001000
+139.252891,35.422597,-0.001000
+139.252543,35.422658,-0.001000
+139.252382,35.422696,-0.001000
+139.252253,35.422735,-0.001000
+139.252081,35.422812,-0.001000
+139.251888,35.422881,-0.001000
+139.251679,35.422962,-0.001000
+139.251582,35.423001,-0.001000
+139.251475,35.423052,-0.001000
+139.251368,35.423104,-0.001000
+139.251282,35.423151,-0.001000
+139.251223,35.423147,-0.001000
+139.251164,35.423142,-0.001000
+139.251116,35.423155,-0.001000
+139.250976,35.423220,-0.001000
+139.250912,35.423258,-0.001000
+139.250821,35.423314,-0.001000
+139.250692,35.423370,-0.001000
+139.250574,35.423417,-0.001000
+139.250499,35.423451,-0.001000
+139.250402,35.423481,-0.001000
+139.250332,35.423503,-0.001000
+139.250257,35.423524,-0.001000
+139.249834,35.423563,-0.001000
+139.249748,35.423584,-0.001000
+139.249587,35.423636,-0.001000
+139.249479,35.423679,-0.001000
+139.249378,35.423739,-0.001000
+139.249281,35.423778,-0.001000
+139.248991,35.423915,-0.001000
+139.248804,35.424005,-0.001000
+139.248680,35.424065,-0.001000
+139.248487,35.424168,-0.001000
+139.248267,35.424280,-0.001000
+139.248122,35.424366,-0.001000
+139.248085,35.424400,-0.001000
+139.248079,35.424443,-0.001000
+139.248106,35.424580,-0.001000
+139.248165,35.424567,-0.001000
+139.248219,35.424546,-0.001000
+139.248321,35.424524,-0.001000
+139.248385,35.424524,-0.001000
+139.248444,35.424520,-0.001000
+139.248530,35.424503,-0.001000
+139.248664,35.424469,-0.001000
+139.248745,35.424494,-0.001000
+139.248830,35.424499,-0.001000
+139.249201,35.424340,-0.001000
+139.249635,35.424168,-0.001000
+139.249565,35.423992,-0.001000
+139.249324,35.424078,-0.001000
+139.249297,35.424250,-0.001000
+139.249195,35.424340,-0.001000
+139.249142,35.424241,-0.001000
+139.249104,35.424164,-0.001000
+139.249061,35.424082,-0.001000
+139.249195,35.424044,-0.001000
+139.249367,35.423988,-0.001000
+139.249640,35.423889,-0.001000
+139.249930,35.423799,-0.001000
+139.250016,35.423769,-0.001000
+139.250134,35.423722,-0.001000
+139.250220,35.423683,-0.001000
+139.250284,35.423657,-0.001000
+139.250542,35.423572,-0.001000
+139.250767,35.423490,-0.001000
+139.250863,35.423443,-0.001000
+139.250949,35.423396,-0.001000
+139.251185,35.423224,-0.001000
+139.251271,35.423155,-1.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
+<name>伊勢原大山IC・新玉橋</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>EB0001</name>
+<TimeStamp><when>2025-07-13T06:30:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.289654,35.416203,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0002</name>
+<TimeStamp><when>2025-07-13T06:30:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288956,35.416074,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0003</name>
+<TimeStamp><when>2025-07-13T06:30:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288441,35.415980,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0004</name>
+<TimeStamp><when>2025-07-13T06:30:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287932,35.415898,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0005</name>
+<TimeStamp><when>2025-07-13T06:30:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287545,35.415838,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0006</name>
+<TimeStamp><when>2025-07-13T06:31:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287079,35.415774,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0007</name>
+<TimeStamp><when>2025-07-13T06:31:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286907,35.415752,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0008</name>
+<TimeStamp><when>2025-07-13T06:31:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286735,35.415740,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0009</name>
+<TimeStamp><when>2025-07-13T06:31:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286612,35.415740,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0010</name>
+<TimeStamp><when>2025-07-13T06:31:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286499,35.415748,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0011</name>
+<TimeStamp><when>2025-07-13T06:31:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286371,35.415774,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0012</name>
+<TimeStamp><when>2025-07-13T06:32:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286247,35.415817,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0013</name>
+<TimeStamp><when>2025-07-13T06:32:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286070,35.415911,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0014</name>
+<TimeStamp><when>2025-07-13T06:32:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285958,35.416014,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0015</name>
+<TimeStamp><when>2025-07-13T06:32:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285877,35.416126,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0016</name>
+<TimeStamp><when>2025-07-13T06:32:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285829,35.416229,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0017</name>
+<TimeStamp><when>2025-07-13T06:32:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285802,35.416323,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0018</name>
+<TimeStamp><when>2025-07-13T06:33:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285791,35.416448,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0019</name>
+<TimeStamp><when>2025-07-13T06:33:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285813,35.416572,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0020</name>
+<TimeStamp><when>2025-07-13T06:33:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285850,35.416684,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0021</name>
+<TimeStamp><when>2025-07-13T06:33:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.285904,35.416782,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0022</name>
+<TimeStamp><when>2025-07-13T06:33:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286006,35.416915,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0023</name>
+<TimeStamp><when>2025-07-13T06:33:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286129,35.417036,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0024</name>
+<TimeStamp><when>2025-07-13T06:34:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286247,35.417130,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0025</name>
+<TimeStamp><when>2025-07-13T06:34:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286365,35.417212,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0026</name>
+<TimeStamp><when>2025-07-13T06:34:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286489,35.417289,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0027</name>
+<TimeStamp><when>2025-07-13T06:34:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286639,35.417379,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0028</name>
+<TimeStamp><when>2025-07-13T06:34:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286810,35.417469,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0029</name>
+<TimeStamp><when>2025-07-13T06:34:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286955,35.417538,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0030</name>
+<TimeStamp><when>2025-07-13T06:35:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287197,35.417632,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0031</name>
+<TimeStamp><when>2025-07-13T06:35:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287347,35.417684,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0032</name>
+<TimeStamp><when>2025-07-13T06:35:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287615,35.417761,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0033</name>
+<TimeStamp><when>2025-07-13T06:35:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287835,35.417804,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0034</name>
+<TimeStamp><when>2025-07-13T06:35:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287975,35.417821,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0035</name>
+<TimeStamp><when>2025-07-13T06:35:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288119,35.417830,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0036</name>
+<TimeStamp><when>2025-07-13T06:36:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288275,35.417830,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0037</name>
+<TimeStamp><when>2025-07-13T06:36:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288457,35.417812,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0038</name>
+<TimeStamp><when>2025-07-13T06:36:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288570,35.417799,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0039</name>
+<TimeStamp><when>2025-07-13T06:36:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288897,35.417718,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0040</name>
+<TimeStamp><when>2025-07-13T06:36:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.290034,35.417469,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0041</name>
+<TimeStamp><when>2025-07-13T06:36:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291311,35.417186,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0042</name>
+<TimeStamp><when>2025-07-13T06:37:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291461,35.417134,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0043</name>
+<TimeStamp><when>2025-07-13T06:37:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291708,35.417031,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0044</name>
+<TimeStamp><when>2025-07-13T06:37:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291955,35.416894,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0045</name>
+<TimeStamp><when>2025-07-13T06:37:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.292180,35.416722,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0046</name>
+<TimeStamp><when>2025-07-13T06:37:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.293532,35.415589,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0047</name>
+<TimeStamp><when>2025-07-13T06:37:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.292985,35.415160,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0048</name>
+<TimeStamp><when>2025-07-13T06:38:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291837,35.414371,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0049</name>
+<TimeStamp><when>2025-07-13T06:38:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.291526,35.414173,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0050</name>
+<TimeStamp><when>2025-07-13T06:38:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.290882,35.413787,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0051</name>
+<TimeStamp><when>2025-07-13T06:38:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.290185,35.413384,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0052</name>
+<TimeStamp><when>2025-07-13T06:38:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288404,35.412379,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0053</name>
+<TimeStamp><when>2025-07-13T06:38:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288200,35.412251,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0054</name>
+<TimeStamp><when>2025-07-13T06:39:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.288060,35.412139,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0055</name>
+<TimeStamp><when>2025-07-13T06:39:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287889,35.412010,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0056</name>
+<TimeStamp><when>2025-07-13T06:39:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287808,35.411929,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0057</name>
+<TimeStamp><when>2025-07-13T06:39:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287744,35.411851,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0058</name>
+<TimeStamp><when>2025-07-13T06:39:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287679,35.411770,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0059</name>
+<TimeStamp><when>2025-07-13T06:39:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.287492,35.411650,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0060</name>
+<TimeStamp><when>2025-07-13T06:40:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286977,35.410723,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0061</name>
+<TimeStamp><when>2025-07-13T06:40:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286923,35.410534,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0062</name>
+<TimeStamp><when>2025-07-13T06:40:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286891,35.410354,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0063</name>
+<TimeStamp><when>2025-07-13T06:40:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286912,35.410191,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0064</name>
+<TimeStamp><when>2025-07-13T06:40:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286945,35.410053,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0065</name>
+<TimeStamp><when>2025-07-13T06:40:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286762,35.410028,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0066</name>
+<TimeStamp><when>2025-07-13T06:41:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286526,35.410010,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0067</name>
+<TimeStamp><when>2025-07-13T06:41:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286333,35.410028,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0068</name>
+<TimeStamp><when>2025-07-13T06:41:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.286118,35.410053,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0069</name>
+<TimeStamp><when>2025-07-13T06:41:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284756,35.410397,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0070</name>
+<TimeStamp><when>2025-07-13T06:41:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284563,35.410465,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0071</name>
+<TimeStamp><when>2025-07-13T06:41:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284348,35.410585,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0072</name>
+<TimeStamp><when>2025-07-13T06:42:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284219,35.410671,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0073</name>
+<TimeStamp><when>2025-07-13T06:42:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.284091,35.410791,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0074</name>
+<TimeStamp><when>2025-07-13T06:42:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283930,35.410989,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0075</name>
+<TimeStamp><when>2025-07-13T06:42:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283297,35.412354,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0076</name>
+<TimeStamp><when>2025-07-13T06:42:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283222,35.412474,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0077</name>
+<TimeStamp><when>2025-07-13T06:42:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.283071,35.412671,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0078</name>
+<TimeStamp><when>2025-07-13T06:43:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.282857,35.412843,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0079</name>
+<TimeStamp><when>2025-07-13T06:43:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.280679,35.414122,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0080</name>
+<TimeStamp><when>2025-07-13T06:43:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279810,35.414628,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0081</name>
+<TimeStamp><when>2025-07-13T06:43:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279322,35.414860,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0082</name>
+<TimeStamp><when>2025-07-13T06:43:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.279075,35.414963,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0083</name>
+<TimeStamp><when>2025-07-13T06:43:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.277106,35.415740,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0084</name>
+<TimeStamp><when>2025-07-13T06:44:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.276581,35.415937,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0085</name>
+<TimeStamp><when>2025-07-13T06:44:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.276377,35.416006,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0086</name>
+<TimeStamp><when>2025-07-13T06:44:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.276098,35.416083,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0087</name>
+<TimeStamp><when>2025-07-13T06:44:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275797,35.416117,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0088</name>
+<TimeStamp><when>2025-07-13T06:44:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275529,35.416134,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0089</name>
+<TimeStamp><when>2025-07-13T06:44:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.274145,35.416126,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0090</name>
+<TimeStamp><when>2025-07-13T06:45:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.273845,35.416160,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0091</name>
+<TimeStamp><when>2025-07-13T06:45:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.273373,35.416272,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0092</name>
+<TimeStamp><when>2025-07-13T06:45:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272933,35.416443,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0093</name>
+<TimeStamp><when>2025-07-13T06:45:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272686,35.416521,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0094</name>
+<TimeStamp><when>2025-07-13T06:45:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272546,35.416555,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0095</name>
+<TimeStamp><when>2025-07-13T06:45:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272332,35.416564,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0096</name>
+<TimeStamp><when>2025-07-13T06:46:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272096,35.416572,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0097</name>
+<TimeStamp><when>2025-07-13T06:46:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271860,35.416546,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0098</name>
+<TimeStamp><when>2025-07-13T06:46:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.267761,35.415336,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0099</name>
+<TimeStamp><when>2025-07-13T06:46:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.267568,35.415276,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0100</name>
+<TimeStamp><when>2025-07-13T06:46:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.267246,35.415225,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0101</name>
+<TimeStamp><when>2025-07-13T06:46:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266919,35.415207,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0102</name>
+<TimeStamp><when>2025-07-13T06:47:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266721,35.415212,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0103</name>
+<TimeStamp><when>2025-07-13T06:47:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266388,35.415250,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0104</name>
+<TimeStamp><when>2025-07-13T06:47:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266072,35.415323,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0105</name>
+<TimeStamp><when>2025-07-13T06:47:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265852,35.415396,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0106</name>
+<TimeStamp><when>2025-07-13T06:47:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265685,35.415456,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0107</name>
+<TimeStamp><when>2025-07-13T06:47:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265444,35.415568,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0108</name>
+<TimeStamp><when>2025-07-13T06:48:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265101,35.415787,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0109</name>
+<TimeStamp><when>2025-07-13T06:48:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264967,35.415894,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0110</name>
+<TimeStamp><when>2025-07-13T06:48:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264838,35.416010,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0111</name>
+<TimeStamp><when>2025-07-13T06:48:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264688,35.416164,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0112</name>
+<TimeStamp><when>2025-07-13T06:48:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264173,35.416671,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0113</name>
+<TimeStamp><when>2025-07-13T06:48:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264028,35.416808,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0114</name>
+<TimeStamp><when>2025-07-13T06:49:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.263658,35.417053,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0115</name>
+<TimeStamp><when>2025-07-13T06:49:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.263454,35.417156,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0116</name>
+<TimeStamp><when>2025-07-13T06:49:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.263196,35.417254,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0117</name>
+<TimeStamp><when>2025-07-13T06:49:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262987,35.417323,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0118</name>
+<TimeStamp><when>2025-07-13T06:49:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262815,35.417370,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0119</name>
+<TimeStamp><when>2025-07-13T06:49:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262472,35.417422,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0120</name>
+<TimeStamp><when>2025-07-13T06:50:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262247,35.417430,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0121</name>
+<TimeStamp><when>2025-07-13T06:50:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261748,35.417430,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0122</name>
+<TimeStamp><when>2025-07-13T06:50:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261319,35.417422,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0123</name>
+<TimeStamp><when>2025-07-13T06:50:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261083,35.417435,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0124</name>
+<TimeStamp><when>2025-07-13T06:50:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260922,35.417456,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0125</name>
+<TimeStamp><when>2025-07-13T06:50:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260761,35.417495,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0126</name>
+<TimeStamp><when>2025-07-13T06:51:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260632,35.417542,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0127</name>
+<TimeStamp><when>2025-07-13T06:51:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260519,35.417589,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0128</name>
+<TimeStamp><when>2025-07-13T06:51:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259602,35.418036,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0129</name>
+<TimeStamp><when>2025-07-13T06:51:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259447,35.418130,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0130</name>
+<TimeStamp><when>2025-07-13T06:51:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259382,35.418181,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0131</name>
+<TimeStamp><when>2025-07-13T06:51:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259538,35.418319,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0132</name>
+<TimeStamp><when>2025-07-13T06:52:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259677,35.418405,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0133</name>
+<TimeStamp><when>2025-07-13T06:52:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.259785,35.418465,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0134</name>
+<TimeStamp><when>2025-07-13T06:52:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260026,35.418490,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0135</name>
+<TimeStamp><when>2025-07-13T06:52:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260139,35.418490,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0136</name>
+<TimeStamp><when>2025-07-13T06:52:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260219,35.418465,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0137</name>
+<TimeStamp><when>2025-07-13T06:52:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260342,35.418422,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0138</name>
+<TimeStamp><when>2025-07-13T06:53:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.260707,35.418267,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0139</name>
+<TimeStamp><when>2025-07-13T06:53:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261024,35.418169,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0140</name>
+<TimeStamp><when>2025-07-13T06:53:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261158,35.418134,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0141</name>
+<TimeStamp><when>2025-07-13T06:53:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261319,35.418100,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0142</name>
+<TimeStamp><when>2025-07-13T06:53:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261673,35.418044,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0143</name>
+<TimeStamp><when>2025-07-13T06:53:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261952,35.417971,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0144</name>
+<TimeStamp><when>2025-07-13T06:54:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.261968,35.417963,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0145</name>
+<TimeStamp><when>2025-07-13T06:54:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262097,35.417920,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0146</name>
+<TimeStamp><when>2025-07-13T06:54:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262236,35.417864,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0147</name>
+<TimeStamp><when>2025-07-13T06:54:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262338,35.417830,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0148</name>
+<TimeStamp><when>2025-07-13T06:54:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262536,35.417769,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0149</name>
+<TimeStamp><when>2025-07-13T06:54:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262595,35.417757,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0150</name>
+<TimeStamp><when>2025-07-13T06:55:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262767,35.417735,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0151</name>
+<TimeStamp><when>2025-07-13T06:55:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.262933,35.417718,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0152</name>
+<TimeStamp><when>2025-07-13T06:55:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.263454,35.417696,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0153</name>
+<TimeStamp><when>2025-07-13T06:55:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.263674,35.417606,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0154</name>
+<TimeStamp><when>2025-07-13T06:55:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.263786,35.417546,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0155</name>
+<TimeStamp><when>2025-07-13T06:55:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264017,35.417418,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0156</name>
+<TimeStamp><when>2025-07-13T06:56:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264216,35.417336,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0157</name>
+<TimeStamp><when>2025-07-13T06:56:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264430,35.417280,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0158</name>
+<TimeStamp><when>2025-07-13T06:56:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264548,35.417246,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0159</name>
+<TimeStamp><when>2025-07-13T06:56:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264747,35.417199,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0160</name>
+<TimeStamp><when>2025-07-13T06:56:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.264849,35.417164,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0161</name>
+<TimeStamp><when>2025-07-13T06:56:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265020,35.417057,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0162</name>
+<TimeStamp><when>2025-07-13T06:57:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265170,35.416928,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0163</name>
+<TimeStamp><when>2025-07-13T06:57:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265267,35.416851,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0164</name>
+<TimeStamp><when>2025-07-13T06:57:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265364,35.416795,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0165</name>
+<TimeStamp><when>2025-07-13T06:57:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265530,35.416667,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0166</name>
+<TimeStamp><when>2025-07-13T06:57:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265632,35.416611,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0167</name>
+<TimeStamp><when>2025-07-13T06:57:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265728,35.416551,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0168</name>
+<TimeStamp><when>2025-07-13T06:58:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265798,35.416512,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0169</name>
+<TimeStamp><when>2025-07-13T06:58:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.265932,35.416456,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0170</name>
+<TimeStamp><when>2025-07-13T06:58:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266029,35.416413,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0171</name>
+<TimeStamp><when>2025-07-13T06:58:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266098,35.416370,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0172</name>
+<TimeStamp><when>2025-07-13T06:58:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266211,35.416293,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0173</name>
+<TimeStamp><when>2025-07-13T06:58:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266318,35.416212,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0174</name>
+<TimeStamp><when>2025-07-13T06:59:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266377,35.416182,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0175</name>
+<TimeStamp><when>2025-07-13T06:59:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266479,35.416156,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0176</name>
+<TimeStamp><when>2025-07-13T06:59:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.266753,35.416117,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0177</name>
+<TimeStamp><when>2025-07-13T06:59:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.267214,35.416083,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0178</name>
+<TimeStamp><when>2025-07-13T06:59:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.268024,35.416079,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0179</name>
+<TimeStamp><when>2025-07-13T06:59:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.268115,35.416104,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0180</name>
+<TimeStamp><when>2025-07-13T07:00:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.268384,35.416156,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0181</name>
+<TimeStamp><when>2025-07-13T07:00:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.268561,35.416199,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0182</name>
+<TimeStamp><when>2025-07-13T07:00:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.268791,35.416276,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0183</name>
+<TimeStamp><when>2025-07-13T07:00:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.268866,35.416297,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0184</name>
+<TimeStamp><when>2025-07-13T07:00:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.269242,35.416439,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0185</name>
+<TimeStamp><when>2025-07-13T07:00:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.269414,35.416512,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0186</name>
+<TimeStamp><when>2025-07-13T07:01:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.270299,35.416834,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0187</name>
+<TimeStamp><when>2025-07-13T07:01:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.270803,35.417010,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0188</name>
+<TimeStamp><when>2025-07-13T07:01:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271039,35.417100,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0189</name>
+<TimeStamp><when>2025-07-13T07:01:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271130,35.417134,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0190</name>
+<TimeStamp><when>2025-07-13T07:01:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271195,35.417160,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0191</name>
+<TimeStamp><when>2025-07-13T07:01:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271280,35.417186,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0192</name>
+<TimeStamp><when>2025-07-13T07:02:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271495,35.417229,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0193</name>
+<TimeStamp><when>2025-07-13T07:02:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.271576,35.417237,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0194</name>
+<TimeStamp><when>2025-07-13T07:02:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272015,35.417323,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0195</name>
+<TimeStamp><when>2025-07-13T07:02:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272396,35.417400,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0196</name>
+<TimeStamp><when>2025-07-13T07:02:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272546,35.417439,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0197</name>
+<TimeStamp><when>2025-07-13T07:02:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272697,35.417460,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0198</name>
+<TimeStamp><when>2025-07-13T07:03:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.272874,35.417478,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0199</name>
+<TimeStamp><when>2025-07-13T07:03:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.273078,35.417503,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0200</name>
+<TimeStamp><when>2025-07-13T07:03:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.273228,35.417503,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0201</name>
+<TimeStamp><when>2025-07-13T07:03:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.274231,35.417593,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0202</name>
+<TimeStamp><when>2025-07-13T07:03:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.274338,35.417598,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0203</name>
+<TimeStamp><when>2025-07-13T07:03:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.274456,35.417589,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0204</name>
+<TimeStamp><when>2025-07-13T07:04:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.274558,35.417568,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0205</name>
+<TimeStamp><when>2025-07-13T07:04:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.274751,35.417508,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0206</name>
+<TimeStamp><when>2025-07-13T07:04:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275025,35.417405,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0207</name>
+<TimeStamp><when>2025-07-13T07:04:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275593,35.417203,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0208</name>
+<TimeStamp><when>2025-07-13T07:04:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275781,35.417151,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0209</name>
+<TimeStamp><when>2025-07-13T07:04:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275996,35.417117,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0210</name>
+<TimeStamp><when>2025-07-13T07:05:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275948,35.416868,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0211</name>
+<TimeStamp><when>2025-07-13T07:05:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275915,35.416782,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0212</name>
+<TimeStamp><when>2025-07-13T07:05:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275872,35.416727,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0213</name>
+<TimeStamp><when>2025-07-13T07:05:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275813,35.416667,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0214</name>
+<TimeStamp><when>2025-07-13T07:05:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275738,35.416624,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0215</name>
+<TimeStamp><when>2025-07-13T07:05:55Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275669,35.416564,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0216</name>
+<TimeStamp><when>2025-07-13T07:06:05Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275620,35.416499,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0217</name>
+<TimeStamp><when>2025-07-13T07:06:15Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275556,35.416379,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0218</name>
+<TimeStamp><when>2025-07-13T07:06:25Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275524,35.416285,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0219</name>
+<TimeStamp><when>2025-07-13T07:06:35Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275502,35.416216,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>EB0220</name>
+<TimeStamp><when>2025-07-13T07:06:45Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.275529,35.416139,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.289654,35.416203,-0.001000
+139.288956,35.416074,-0.001000
+139.288441,35.415980,-0.001000
+139.287932,35.415898,-0.001000
+139.287545,35.415838,-0.001000
+139.287079,35.415774,-0.001000
+139.286907,35.415752,-0.001000
+139.286735,35.415740,-0.001000
+139.286612,35.415740,-0.001000
+139.286499,35.415748,-0.001000
+139.286371,35.415774,-0.001000
+139.286247,35.415817,-0.001000
+139.286070,35.415911,-0.001000
+139.285958,35.416014,-0.001000
+139.285877,35.416126,-0.001000
+139.285829,35.416229,-0.001000
+139.285802,35.416323,-0.001000
+139.285791,35.416448,-0.001000
+139.285813,35.416572,-0.001000
+139.285850,35.416684,-0.001000
+139.285904,35.416782,-0.001000
+139.286006,35.416915,-0.001000
+139.286129,35.417036,-0.001000
+139.286247,35.417130,-0.001000
+139.286365,35.417212,-0.001000
+139.286489,35.417289,-0.001000
+139.286639,35.417379,-0.001000
+139.286810,35.417469,-0.001000
+139.286955,35.417538,-0.001000
+139.287197,35.417632,-0.001000
+139.287347,35.417684,-0.001000
+139.287615,35.417761,-0.001000
+139.287835,35.417804,-0.001000
+139.287975,35.417821,-0.001000
+139.288119,35.417830,-0.001000
+139.288275,35.417830,-0.001000
+139.288457,35.417812,-0.001000
+139.288570,35.417799,-0.001000
+139.288897,35.417718,-0.001000
+139.290034,35.417469,-0.001000
+139.291311,35.417186,-0.001000
+139.291461,35.417134,-0.001000
+139.291708,35.417031,-0.001000
+139.291955,35.416894,-0.001000
+139.292180,35.416722,-0.001000
+139.293532,35.415589,-0.001000
+139.292985,35.415160,-0.001000
+139.291837,35.414371,-0.001000
+139.291526,35.414173,-0.001000
+139.290882,35.413787,-0.001000
+139.290185,35.413384,-0.001000
+139.288404,35.412379,-0.001000
+139.288200,35.412251,-0.001000
+139.288060,35.412139,-0.001000
+139.287889,35.412010,-0.001000
+139.287808,35.411929,-0.001000
+139.287744,35.411851,-0.001000
+139.287679,35.411770,-0.001000
+139.287492,35.411650,-0.001000
+139.286977,35.410723,-0.001000
+139.286923,35.410534,-0.001000
+139.286891,35.410354,-0.001000
+139.286912,35.410191,-0.001000
+139.286945,35.410053,-0.001000
+139.286762,35.410028,-0.001000
+139.286526,35.410010,-0.001000
+139.286333,35.410028,-0.001000
+139.286118,35.410053,-0.001000
+139.284756,35.410397,-0.001000
+139.284563,35.410465,-0.001000
+139.284348,35.410585,-0.001000
+139.284219,35.410671,-0.001000
+139.284091,35.410791,-0.001000
+139.283930,35.410989,-0.001000
+139.283297,35.412354,-0.001000
+139.283222,35.412474,-0.001000
+139.283071,35.412671,-0.001000
+139.282857,35.412843,-0.001000
+139.280679,35.414122,-0.001000
+139.279810,35.414628,-0.001000
+139.279322,35.414860,-0.001000
+139.279075,35.414963,-0.001000
+139.277106,35.415740,-0.001000
+139.276581,35.415937,-0.001000
+139.276377,35.416006,-0.001000
+139.276098,35.416083,-0.001000
+139.275797,35.416117,-0.001000
+139.275529,35.416134,-0.001000
+139.274145,35.416126,-0.001000
+139.273845,35.416160,-0.001000
+139.273373,35.416272,-0.001000
+139.272933,35.416443,-0.001000
+139.272686,35.416521,-0.001000
+139.272546,35.416555,-0.001000
+139.272332,35.416564,-0.001000
+139.272096,35.416572,-0.001000
+139.271860,35.416546,-0.001000
+139.267761,35.415336,-0.001000
+139.267568,35.415276,-0.001000
+139.267246,35.415225,-0.001000
+139.266919,35.415207,-0.001000
+139.266721,35.415212,-0.001000
+139.266388,35.415250,-0.001000
+139.266072,35.415323,-0.001000
+139.265852,35.415396,-0.001000
+139.265685,35.415456,-0.001000
+139.265444,35.415568,-0.001000
+139.265101,35.415787,-0.001000
+139.264967,35.415894,-0.001000
+139.264838,35.416010,-0.001000
+139.264688,35.416164,-0.001000
+139.264173,35.416671,-0.001000
+139.264028,35.416808,-0.001000
+139.263658,35.417053,-0.001000
+139.263454,35.417156,-0.001000
+139.263196,35.417254,-0.001000
+139.262987,35.417323,-0.001000
+139.262815,35.417370,-0.001000
+139.262472,35.417422,-0.001000
+139.262247,35.417430,-0.001000
+139.261748,35.417430,-0.001000
+139.261319,35.417422,-0.001000
+139.261083,35.417435,-0.001000
+139.260922,35.417456,-0.001000
+139.260761,35.417495,-0.001000
+139.260632,35.417542,-0.001000
+139.260519,35.417589,-0.001000
+139.259602,35.418036,-0.001000
+139.259447,35.418130,-0.001000
+139.259382,35.418181,-0.001000
+139.259538,35.418319,-0.001000
+139.259677,35.418405,-0.001000
+139.259785,35.418465,-0.001000
+139.260026,35.418490,-0.001000
+139.260139,35.418490,-0.001000
+139.260219,35.418465,-0.001000
+139.260342,35.418422,-0.001000
+139.260707,35.418267,-0.001000
+139.261024,35.418169,-0.001000
+139.261158,35.418134,-0.001000
+139.261319,35.418100,-0.001000
+139.261673,35.418044,-0.001000
+139.261952,35.417971,-0.001000
+139.261968,35.417963,-0.001000
+139.262097,35.417920,-0.001000
+139.262236,35.417864,-0.001000
+139.262338,35.417830,-0.001000
+139.262536,35.417769,-0.001000
+139.262595,35.417757,-0.001000
+139.262767,35.417735,-0.001000
+139.262933,35.417718,-0.001000
+139.263454,35.417696,-0.001000
+139.263674,35.417606,-0.001000
+139.263786,35.417546,-0.001000
+139.264017,35.417418,-0.001000
+139.264216,35.417336,-0.001000
+139.264430,35.417280,-0.001000
+139.264548,35.417246,-0.001000
+139.264747,35.417199,-0.001000
+139.264849,35.417164,-0.001000
+139.265020,35.417057,-0.001000
+139.265170,35.416928,-0.001000
+139.265267,35.416851,-0.001000
+139.265364,35.416795,-0.001000
+139.265530,35.416667,-0.001000
+139.265632,35.416611,-0.001000
+139.265728,35.416551,-0.001000
+139.265798,35.416512,-0.001000
+139.265932,35.416456,-0.001000
+139.266029,35.416413,-0.001000
+139.266098,35.416370,-0.001000
+139.266211,35.416293,-0.001000
+139.266318,35.416212,-0.001000
+139.266377,35.416182,-0.001000
+139.266479,35.416156,-0.001000
+139.266753,35.416117,-0.001000
+139.267214,35.416083,-0.001000
+139.268024,35.416079,-0.001000
+139.268115,35.416104,-0.001000
+139.268384,35.416156,-0.001000
+139.268561,35.416199,-0.001000
+139.268791,35.416276,-0.001000
+139.268866,35.416297,-0.001000
+139.269242,35.416439,-0.001000
+139.269414,35.416512,-0.001000
+139.270299,35.416834,-0.001000
+139.270803,35.417010,-0.001000
+139.271039,35.417100,-0.001000
+139.271130,35.417134,-0.001000
+139.271195,35.417160,-0.001000
+139.271280,35.417186,-0.001000
+139.271495,35.417229,-0.001000
+139.271576,35.417237,-0.001000
+139.272015,35.417323,-0.001000
+139.272396,35.417400,-0.001000
+139.272546,35.417439,-0.001000
+139.272697,35.417460,-0.001000
+139.272874,35.417478,-0.001000
+139.273078,35.417503,-0.001000
+139.273228,35.417503,-0.001000
+139.274231,35.417593,-0.001000
+139.274338,35.417598,-0.001000
+139.274456,35.417589,-0.001000
+139.274558,35.417568,-0.001000
+139.274751,35.417508,-0.001000
+139.275025,35.417405,-0.001000
+139.275593,35.417203,-0.001000
+139.275781,35.417151,-0.001000
+139.275996,35.417117,-0.001000
+139.275948,35.416868,-0.001000
+139.275915,35.416782,-0.001000
+139.275872,35.416727,-0.001000
+139.275813,35.416667,-0.001000
+139.275738,35.416624,-0.001000
+139.275669,35.416564,-0.001000
+139.275620,35.416499,-0.001000
+139.275556,35.416379,-0.001000
+139.275524,35.416285,-0.001000
+139.275502,35.416216,-0.001000
+139.275529,35.416139,-0.001000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>大和田三丁目</name>
 <Folder>
 <name>Points</name>
