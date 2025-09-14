@@ -3263,11 +3263,206 @@
 </ExtendedData>
 </Placemark>
 <Placemark>
-<name>AT0126</name>
-<TimeStamp><when>2025-09-14T05:45:00Z</when></TimeStamp>
+<name>KI0007</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
 <styleUrl>#route</styleUrl>
 <Point>
-<coordinates>139.875426,35.464205,0.000000</coordinates>
+<coordinates>139.875464,35.464128,1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0008</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.876033,35.463729,1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0009</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.876607,35.463304,1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0010</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.877122,35.462905,1.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0011</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.877573,35.462601,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0012</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.877975,35.462360,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0013</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.878522,35.462038,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0014</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.878651,35.461953,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0015</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.878849,35.461815,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0016</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.878973,35.461712,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0017</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.879182,35.461523,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0018</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.879466,35.461206,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0019</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.879638,35.461038,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0020</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.879879,35.460820,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0021</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.880024,35.460704,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>KI0022</name>
+<TimeStamp><when>2025-09-14T05:44:50Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.880233,35.460468,0.000000</coordinates>
 </Point>
 <ExtendedData>
 	<Data name="IconNumber">
@@ -3293,7 +3488,22 @@
 139.874735,35.464536,1.549000
 139.874963,35.464372,1.559000
 139.875228,35.464189,1.738000
-139.875426,35.464205,0.000000
+139.875464,35.464128,1.000000
+139.876033,35.463729,1.000000
+139.876607,35.463304,1.000000
+139.877122,35.462905,1.000000
+139.877573,35.462601,0.000000
+139.877975,35.462360,0.000000
+139.878522,35.462038,0.000000
+139.878651,35.461953,0.000000
+139.878849,35.461815,0.000000
+139.878973,35.461712,0.000000
+139.879182,35.461523,0.000000
+139.879466,35.461206,0.000000
+139.879638,35.461038,0.000000
+139.879879,35.460820,0.000000
+139.880024,35.460704,0.000000
+139.880233,35.460468,0.000000
 </coordinates>
 </LineString>
 </Placemark>
