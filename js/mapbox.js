@@ -42,9 +42,8 @@ function shareMessage(locationName, latitude, longitude) {
     // window.open(webIntentURL, 'x');
     if (navigator.canShare) {
         navigator.share({
-            title: locationName + " ( " + dateString + " )",
-            // text: locationName,
-            url: gMapURL,
+            // title: locationName, // + " ( " + dateString + " )",
+            text: locationName + " " + gMapURL,
         }).then(() => {
             console.log('共有に成功しました。')
         }).catch((error) => {
@@ -96,7 +95,6 @@ map.on('load', () => {
 });
 
 map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
-map.addControl(new ShareControl(), 'bottom-right');
 map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 map.addControl(new mapboxgl.ScaleControl());
 map.addControl(new MapboxExportControl({
@@ -115,3 +113,5 @@ map.addControl(
     }),
     'bottom-right'
 );
+
+map.addControl(new ShareControl(), 'bottom-right');
