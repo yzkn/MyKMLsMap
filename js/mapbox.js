@@ -4,6 +4,58 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoieWFhbmQiLCJhIjoiY2xndzNsYzVhMDg4NzNmbG5nYW5uMXJ4ayJ9.5m5s747Lt_veKrdxoirjGA'; // このサイトのみで使えるキー
 
 
+class ShareControl {
+    onAdd(map) {
+        this.map = map;
+
+        const shareButton = document.createElement('button');
+        shareButton.title = 'Share current location';
+        shareButton.type = 'button';
+        shareButton.innerHTML = '🔗';
+        shareButton.addEventListener('click', (e) => {
+            console.log({ e })
+            const date = new Date();
+            const dateString = date.getFullYear() + '/' + ('0' + (date.getMonth() + 1)).slice(-2) + '/' + ('0' + date.getDate()).slice(-2) + ' ' + ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ':' + ('0' + date.getSeconds()).slice(-2) + '.' + date.getMilliseconds();
+
+            const currentLocation = map.getCenter();
+            shareX(dateString, currentLocation.lat, currentLocation.lng)
+        });
+
+        this.container = document.createElement('div');
+        this.container.className = 'mapboxgl-ctrl mapboxgl-ctrl-group';
+        this.container.appendChild(shareButton);
+
+        return this.container;
+    }
+
+    onRemove() {
+        this.container.parentNode.removeChild(this.container);
+        this.map = undefined;
+    }
+}
+
+
+function shareX(locationName, latitude, longitude) {
+    const gMapURL = encodeURI(`https://www.google.com/maps/search/?query=${latitude},${longitude}`);
+    const message = locationName + ' ' + gMapURL;
+    // const webIntentURL = `https://twitter.com/intent/tweet?url=${gMapURL}&text=${locationName}`;
+    // window.open(webIntentURL, 'x');
+    if (navigator.canShare) {
+        navigator.share({
+            title: "Current location: " + locationName,
+            text: message,
+            url: gMapURL,
+        }).then(() => {
+            console.log('共有に成功しました。')
+        }).catch((error) => {
+            console.log('共有に失敗しました。', error)
+        })
+    } else {
+        console.log('共有に失敗しました。')
+    }
+}
+
+
 var map = new mapboxgl.Map({
     container: 'map',
     hash: true,
@@ -43,6 +95,8 @@ map.on('load', () => {
     );
 });
 
+map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
+map.addControl(new ShareControl(), 'bottom-right');
 map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 map.addControl(new mapboxgl.ScaleControl());
 map.addControl(new MapboxExportControl({
