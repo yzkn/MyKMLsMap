@@ -12,13 +12,10 @@ class ShareControl {
         shareButton.title = 'Share current location';
         shareButton.type = 'button';
         shareButton.innerHTML = '🔗';
-        shareButton.addEventListener('click', (e) => {
-            console.log({ e })
-            const date = new Date();
-            const dateString = date.getFullYear() + '/' + ('0' + (date.getMonth() + 1)).slice(-2) + '/' + ('0' + date.getDate()).slice(-2) + ' ' + ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ':' + ('0' + date.getSeconds()).slice(-2) + '.' + date.getMilliseconds();
-
+        shareButton.addEventListener('click', async (e) => {
             const currentLocation = map.getCenter();
-            shareX(dateString, currentLocation.lat, currentLocation.lng)
+            const locationName = await reverseGeocoding(currentLocation.lat, currentLocation.lng);
+            shareMessage(locationName, currentLocation.lat, currentLocation.lng)
         });
 
         this.container = document.createElement('div');
@@ -35,15 +32,17 @@ class ShareControl {
 }
 
 
-function shareX(locationName, latitude, longitude) {
+function shareMessage(locationName, latitude, longitude) {
+    const date = new Date();
+    const dateString = date.getFullYear() + '/' + ('0' + (date.getMonth() + 1)).slice(-2) + '/' + ('0' + date.getDate()).slice(-2) + ' ' + ('0' + date.getHours()).slice(-2) + ':' + ('0' + date.getMinutes()).slice(-2) + ':' + ('0' + date.getSeconds()).slice(-2) + '.' + date.getMilliseconds();
+
     const gMapURL = encodeURI(`https://www.google.com/maps/search/?query=${latitude},${longitude}`);
-    const message = locationName + ' ' + gMapURL;
     // const webIntentURL = `https://twitter.com/intent/tweet?url=${gMapURL}&text=${locationName}`;
     // window.open(webIntentURL, 'x');
     if (navigator.canShare) {
         navigator.share({
-            title: "Current location: " + locationName,
-            text: message,
+            title: "Current location ( " + dateString + " )",
+            text: locationName,
             url: gMapURL,
         }).then(() => {
             console.log('共有に成功しました。')
