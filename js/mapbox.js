@@ -15,6 +15,7 @@ class ShareControl {
         shareButton.addEventListener('click', async (e) => {
             const currentLocation = map.getCenter();
             const locationName = await reverseGeocoding(currentLocation.lat, currentLocation.lng);
+            console.log({locationName})
             shareMessage(locationName, currentLocation.lat, currentLocation.lng)
         });
 
@@ -41,8 +42,8 @@ function shareMessage(locationName, latitude, longitude) {
     // window.open(webIntentURL, 'x');
     if (navigator.canShare) {
         navigator.share({
-            title: "Current location ( " + dateString + " )",
-            text: locationName,
+            title: locationName + " ( " + dateString + " )",
+            // text: locationName,
             url: gMapURL,
         }).then(() => {
             console.log('共有に成功しました。')
