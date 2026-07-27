@@ -29,6 +29,306 @@
 <Folder>
 <name>Routes</name>
 <Folder>
+<name>坂東PA外回り</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>IW0001</name>
+<TimeStamp><when>2026-07-27T11:29:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.902390,36.083981,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0002</name>
+<TimeStamp><when>2026-07-27T11:29:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.904101,36.083556,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0003</name>
+<TimeStamp><when>2026-07-27T11:29:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.904809,36.083427,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0004</name>
+<TimeStamp><when>2026-07-27T11:29:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.905169,36.083367,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0005</name>
+<TimeStamp><when>2026-07-27T11:29:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.906349,36.083212,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0006</name>
+<TimeStamp><when>2026-07-27T11:29:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.906531,36.083238,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0007</name>
+<TimeStamp><when>2026-07-27T11:30:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.906606,36.083290,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0008</name>
+<TimeStamp><when>2026-07-27T11:30:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.906885,36.083702,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0009</name>
+<TimeStamp><when>2026-07-27T11:30:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.907926,36.083478,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0010</name>
+<TimeStamp><when>2026-07-27T11:30:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.907958,36.083204,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0011</name>
+<TimeStamp><when>2026-07-27T11:30:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.908022,36.083058,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0012</name>
+<TimeStamp><when>2026-07-27T11:30:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.908108,36.082938,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0013</name>
+<TimeStamp><when>2026-07-27T11:31:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.908301,36.082818,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0014</name>
+<TimeStamp><when>2026-07-27T11:31:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.908999,36.082620,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0015</name>
+<TimeStamp><when>2026-07-27T11:31:22Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.910157,36.082234,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0016</name>
+<TimeStamp><when>2026-07-27T11:31:32Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.911043,36.081938,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0017</name>
+<TimeStamp><when>2026-07-27T11:31:42Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.911638,36.081667,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0018</name>
+<TimeStamp><when>2026-07-27T11:31:52Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.912067,36.081496,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>IW0019</name>
+<TimeStamp><when>2026-07-27T11:32:02Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.913162,36.080998,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>BO0310</name>
+<TimeStamp><when>2026-07-27T11:32:12Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.914408,36.080247,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.902390,36.083981,-0.001000
+139.904101,36.083556,-0.001000
+139.904809,36.083427,-0.001000
+139.905169,36.083367,-0.001000
+139.906349,36.083212,-0.001000
+139.906531,36.083238,-0.001000
+139.906606,36.083290,-0.001000
+139.906885,36.083702,-0.001000
+139.907926,36.083478,-0.001000
+139.907958,36.083204,-0.001000
+139.908022,36.083058,-0.001000
+139.908108,36.082938,-0.001000
+139.908301,36.082818,-0.001000
+139.908999,36.082620,-0.001000
+139.910157,36.082234,-0.001000
+139.911043,36.081938,-0.001000
+139.911638,36.081667,-0.001000
+139.912067,36.081496,-0.001000
+139.913162,36.080998,-0.001000
+139.914408,36.080247,0.000000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>出流原PA東行通過</name>
 <Folder>
 <name>Points</name>
