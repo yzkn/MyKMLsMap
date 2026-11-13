@@ -29,6 +29,152 @@
 <Folder>
 <name>Routes</name>
 <Folder>
+<name>川越鴨田・鴨田南</name>
+<Folder>
+<name>Points</name>
+<Placemark>
+<name>BA0057</name>
+<TimeStamp><when>2026-11-13T07:00:38Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.515404,35.933279,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>BA0057</name>
+<TimeStamp><when>2026-11-13T07:00:48Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.515404,35.933279,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>NN0003</name>
+<TimeStamp><when>2026-11-13T07:00:58Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.515637,35.932481,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>NN0004</name>
+<TimeStamp><when>2026-11-13T07:01:08Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.515835,35.931734,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>NN0005</name>
+<TimeStamp><when>2026-11-13T07:01:18Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.516071,35.930884,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>NN0006</name>
+<TimeStamp><when>2026-11-13T07:01:28Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.516221,35.930339,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>NN0007</name>
+<TimeStamp><when>2026-11-13T07:01:38Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.516307,35.929996,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>NN0008</name>
+<TimeStamp><when>2026-11-13T07:01:48Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.516313,35.929790,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>LS0003</name>
+<TimeStamp><when>2026-11-13T07:01:58Z</when></TimeStamp>
+<styleUrl>#route</styleUrl>
+<Point>
+<coordinates>139.516263,35.929707,9.685000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>901001</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+<Placemark>
+<name>Path</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+</Style>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.515404,35.933279,-0.001000
+139.515404,35.933279,-0.001000
+139.515637,35.932481,-0.001000
+139.515835,35.931734,-0.001000
+139.516071,35.930884,-0.001000
+139.516221,35.930339,-0.001000
+139.516307,35.929996,-0.001000
+139.516313,35.929790,-0.001000
+139.516263,35.929707,9.685000
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder>
 <name>伊勢崎IC西行入口</name>
 <Folder>
 <name>Points</name>
