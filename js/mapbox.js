@@ -1,7 +1,6 @@
 // Copyright (c) 2024 YA-androidapp(https://github.com/yzkn) All rights reserved.
 
 
-mapboxgl.accessToken = 'pk.eyJ1IjoieWFhbmQiLCJhIjoiY2xndzNsYzVhMDg4NzNmbG5nYW5uMXJ4ayJ9.5m5s747Lt_veKrdxoirjGA'; // このサイトのみで使えるキー
 
 
 class ShareControl {
@@ -20,7 +19,7 @@ class ShareControl {
         });
 
         this.container = document.createElement('div');
-        this.container.className = 'mapboxgl-ctrl mapboxgl-ctrl-group';
+        this.container.className = 'maplibregl-ctrl maplibregl-ctrl-group';
         this.container.appendChild(shareButton);
 
         return this.container;
@@ -55,7 +54,7 @@ function shareMessage(locationName, latitude, longitude) {
 }
 
 
-var map = new mapboxgl.Map({
+var map = new maplibregl.Map({
     container: 'map',
     hash: true,
     style: 'js/pale.json',
@@ -94,17 +93,16 @@ map.on('load', () => {
     );
 });
 
-map.addControl(new mapboxgl.FullscreenControl(), 'bottom-right');
-map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
-map.addControl(new mapboxgl.ScaleControl());
-map.addControl(new MapboxExportControl({
-    Format: Format.PNG,
-    DPI: DPI[400],
-    PrintableArea: true
+map.addControl(new maplibregl.FullscreenControl(), 'bottom-right');
+map.addControl(new maplibregl.NavigationControl(), 'bottom-right');
+map.addControl(new maplibregl.ScaleControl());
+map.addControl(new MaplibreExportControl.MaplibreExportControl({
+    Format: MaplibreExportControl.Format.PNG,
+    DPI: MaplibreExportControl.DPI[400]
 }), 'bottom-right');
 
 map.addControl(
-    new mapboxgl.GeolocateControl({
+    new maplibregl.GeolocateControl({
         positionOptions: {
             enableHighAccuracy: true
         },
